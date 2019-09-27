@@ -1,0 +1,9 @@
+No Vocab Crash Bug Fix
+
+Bug/Problem:
+Running Extraction Tool on PPTX that has no vocabulary words ("words to know") results in a crash.
+
+1. Verify bug
+    - Run tool on 8703-13-09.pptx & 8309-02-15.pptx (valid files)
+    - Run tool on 8309-02-15.pptx (no vocab words)
+2. 

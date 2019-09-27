@@ -1,0 +1,15 @@
+--------------------------------
+SLIDE CONTENT ERROR WARNING LIST
+--------------------------------
+
+The following slides have text formatting problems. Please review the Extraction Sheet for content errors.
+
+  Slide: 5
+  Slide: 12
+  Slide: 18
+  Slide: 24
+  Slide: 27
+  Slide: 37
+
+
+Possible format errors may include equation elements or non-standard symbols. Please compare problem slides to the Extraction Sheet for content errors. If data in the Extraction Sheet is incorrect or missing, the slide formatting errors will need to addressed.
