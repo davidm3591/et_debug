@@ -15,7 +15,7 @@ NOTE: You are going to have setup the develop branch on your local because git/g
 
 4. To update content on your local repository:
 
-   Checkout the develop (working) branch (locally)
+   Checkout the develop (working) branch (locally):
    $ git checkout develop
    
    Create your new branch locally:
@@ -25,7 +25,7 @@ NOTE: You are going to have setup the develop branch on your local because git/g
    If the new branch is not checked out automatically:
    $ git checkout newbranchname
 
-   Complete work then:
+   Complete work, then:
    $ git status
    $ git commit -am "Your message"
    OR
@@ -35,7 +35,7 @@ NOTE: You are going to have setup the develop branch on your local because git/g
 
 5. When you are ready to release your changes:
    
-   Checkout the develop (working) branch (locally)
+   Checkout the develop (working) branch (locally):
    $ git checkout develop
    
    Merge your changes into develop:
@@ -46,11 +46,11 @@ NOTE: You are going to have setup the develop branch on your local because git/g
    Update develop (working) branch on github (MAKE SURE YOU ARE ON THE "develop" BRANCH LOCALLY!):
    $ git push
 
-7. When done you can clean up your local repo or leave the new branch for future work:
+7. When done you can clean up your local repo (or leave the new branch for future work: just remember to pull develop from remote and merge with your new branch... I just delete the branch so I don't have to worry about being in sync with develop):
 
    To delete your branch from local repo:
    $ git branch -d branchname
 
-NOTE: If you need it you can find a git cheat on github under the same account named: Git - GitBash Cheat Sheet.md
+NOTE: If you need it you can find a git cheat on github under the same account named: "Git - GitBash Cheat Sheet.md"
 Located: Code-Cheats-Settings/Git-Stuff/Git/Git - GitBash Cheat Sheet.md
   
