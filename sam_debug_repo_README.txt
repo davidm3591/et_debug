@@ -1,4 +1,4 @@
-Hi Sam... I moved the README.md file into a new debug repository. Whenever you push to the remote develop branch, let me know and I will review and merge with master if we are good to go and then update my local debug repo with your changes. Whenever I do updates I will let you know so you can update your local repo ($ git pull).
+Hi Sam... I moved the README.md file into a new debug repository. Whenever you push to the remote develop branch, let me know and I will review and merge with master if we are good to go and then update my local debug repo with your changes. Whenever I do updates I will let you know so you can update your local repo ($ git pull). Let me know when you are updating something and I will make sure to let you know when I am updating something, or we could end up with merge conflicts.
 
 https://github.com/davidm3591/et_debug
 
