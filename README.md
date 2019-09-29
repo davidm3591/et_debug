@@ -1,8 +1,8 @@
 # Testing & Debug - Next Steps
-## Current Release: v0.4.1-alpha
+## Current Release: 0.4.2-alpha
 ## Current Bugs
 
-### Local Disk (C:) > projects > extraction_tool_project > testing_debug_files > extraction-testing-09102019 > failed-ppts
+### Local Disk (C:\projects\extraction_tool_project\testing_debug_files\extraction-testing-09102019\failed-ppts) - Release: v0.4.1-alpha
 
 | File                    | Pre, Post-fix (Pass/Fail)      | Status         | Notes/Comments          | Validated/Date/Pass/Fail                 |
 
