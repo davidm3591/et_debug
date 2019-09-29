@@ -22,12 +22,12 @@
 
 | File                                  | Pre, Post-fix (Pass/Fail) | Status         | Notes/Comments          | Validated/Date/Pass/Fail |
 |---------------------------------------|---------------------------|----------------|-------------------------|--------------------------|
-| 3112-11-12.pptx | Post: Pass          | Pre: Fail | In Progress |  |
-| 3112-11-12.pptx | Post: Pass          | Pre: Fail | In Progress |  |
-| 3112-12-04.pptx | Post: Pass          | Pre: Fail | In Progress |  |
-| 8525-03-02.pptx | Post: Pass          | Pre: Fail | In Progress |  |
-| 8525-01-06.pptx | Post: Pass          | Pre: Fail | In Progress |  |
-| 8525-04-06.pptx | Post: Pass          | Pre: Fail | In Progress |  |
+| 3112-11-12.pptx                       | Pre: Fail                 | In Progress    |                         |                          |
+| 3112-11-12.pptx                       | Pre: Fail                 | In Progress    |                         |                          |
+| 3112-12-04.pptx                       | Pre: Fail                 | In Progress    |                         |                          |
+| 8525-03-02.pptx                       | Pre: Fail                 | In Progress    |                         |                          |
+| 8525-01-06.pptx                       | Pre: Fail                 | In Progress    |                         |                          |
+| 8525-04-06.pptx                       | Pre: Fail                 | In Progress    |                         |                          |
 ______
 
 
