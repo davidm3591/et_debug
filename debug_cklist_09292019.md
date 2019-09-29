@@ -29,16 +29,16 @@
 |File               | Fix Anything? (Yes/No) | Fixed What?  |
 |-------------------|------------------------|--------------|
 |3112-11-12.pptx    | Yes                    | Missing data, tagging: add No Audio: NA |
-|                   | Yes                    | Empty slides at end of extraction sheet:<b>move graphics slide(s) to front info section |
+|                   | Yes                    | Empty slides at end of extraction sheet:<br>move graphics slide(s) to front info section |
 |                   |                        |              |
-|3112-12-02.pptx    | Yes                    | Empty slides at end of extraction sheet:<b>move graphics slide(s) to front info section |
-|                   |                        |              |
-|                   |                        |              |
-|3112-12-04.pptx    | Yes                    | Empty slides at end of extraction sheet:<b>move graphics slide(s) to front info section |
+|3112-12-02.pptx    | Yes                    | Empty slides at end of extraction sheet:<br>move graphics slide(s) to front info section |
 |                   |                        |              |
 |                   |                        |              |
-|8525-03-02.pptx    | Yes                    | Empty slides at end of extraction sheet:<b>move graphics slide(s) to front info section |
+|3112-12-04.pptx    | Yes                    | Empty slides at end of extraction sheet:<br>move graphics slide(s) to front info section |
+|                   |                        |              |
+|                   |                        |              |
+|8525-03-02.pptx    | Yes                    | Empty slides at end of extraction sheet:<br>move graphics slide(s) to front info section |
 |8525-01-06.pptx    | Yes                    | Missing data, tagging: add No Audio: NA |
-|                   | Yes                    | Empty slides at end of extraction sheet:<b>move graphics slide(s) to front info section |
+|                   | Yes                    | Empty slides at end of extraction sheet:<br>move graphics slide(s) to front info section |
 |                   |                        |              |
 |8525-04-06.pptx    | Yes                    | Missing data, tagging: add No Audio: NA |
