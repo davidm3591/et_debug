@@ -5,9 +5,6 @@
 ### Local Disk (C:\projects\extraction_tool_project\testing_debug_files\extraction-testing-09102019\failed-ppts) - Release: v0.4.1-alpha
 
 | File                    | Pre, Post-fix (Pass/Fail)      | Status         | Notes/Comments          | Validated/Date/Pass/Fail                 |
-
-
-| File                    | Pre, Post-fix (Pass/Fail)      | Status         | Notes/Comments          | Validated/Date/Pass/Fail                 |
 |-------------------------|--------------------------------|----------------|-------------------------|------------------------------------------|
 | 3112-09-02.pptx         | Pre: Fail                      | Working        | Extraction fail - equation codec error |    |
 |                         | Post: Pass                     | Fixed-complete | Temp Solution-Output Equation Error File.<br>User receives (1)"Text Format Error" pop-up warning and<br>(2)"Frame Content Waring" prints to `output` directory.| 09/26/19, Pass, SW |
