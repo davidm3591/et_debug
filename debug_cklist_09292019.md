@@ -4,7 +4,7 @@
 
 * [ ] 1. Verify extraction-testing-09202019\duplicate-errors-ppts with Office 365
     
-|File               | Verified in Office 365 (Yes/No)
+|File               | Verified in Office 365 (Yes/No) |
 |-------------------|---------------------------------|
 |3112-11-12.pptx    | Yes                             |
 |                   | Yes                             |
