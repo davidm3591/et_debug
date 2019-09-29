@@ -12,18 +12,13 @@
 |3112-12-02.pptx    | Yes                             |
 |                   | Yes                             |
 |                   | Yes                             |
-|3112-12-04.pptx    |                                 |
+|3112-12-04.pptx    | Yes                             |
+|                   | Yes                             |
+|                   | Yes                             |
 |8525-03-02.pptx    |                                 |
-|8525-01-06.pptx    |                                 |
-|8525-04-06.pptx    |                                 |
+|8525-01-06.pptx    | Yes                             |
+|                   | Yes                             |
+|                   | Yes                             |
+|8525-04-06.pptx    | Yes                             |
 
-<!--     | File            | Verified in Office 365 (Yes/No) |
-|-----------------|---------------------------------|---|
-| 3112-11-12.pptx | Yes                             |   |
-|                 | Yes                             |   |
-|                 | Yes                             | -->
-
-
-<!-- * [ ] unchecked # [checkbox:unchecked]
-* [x] checked   # [checkbox:checked]
-* [X] checked   # [checkbox:checked] -->
+* [ ] 2. Try moving the graphic and other files at the end of the ppt to the front of the ppt
