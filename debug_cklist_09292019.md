@@ -2,6 +2,8 @@
 
 ## Bug #1: Local Disk (C:\projects\extraction_tool_project\testing debug files\extraction-testing-09202019\duplicate-errors-ppts) - Release v0.4.2-alpha  
 
+### Missing Data & Extra Blank Slide Lines in Extraction Sheet  
+
 * [X] 1. Verify extraction-testing-09202019\duplicate-errors-ppts with Office 365
     
 |File               | Verified in Office 365 (Yes/No) | Still Fails? (Yes/No) |
@@ -43,7 +45,10 @@
 |                   |                        |              |
 |8525-04-06.pptx    | Yes                    | Missing data, tagging: add No Audio: NA |
 
-* [ ] 4. No vocab or wrong vocab
+### No Vocab or Wrong Vocab
+
+* [ ] 1. Verify that previous vocab work was not lost in versioning
+- * [ ] Version v0.4.1-alpha
 
 |File               | Fix Anything? (Yes/No) | Fixed What?  |
 |-------------------|------------------------|--------------|
