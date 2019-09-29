@@ -15,9 +15,12 @@
 |                                       | Pre: Fail                 | Working        | Fail/Pass - equation codec error |     |
 |                                       | Post:                     | Fixed-complete | Temp Solution-Output Equation Error File.<br>User receives (1)"Text Format Error" pop-up warning and<br>(2)"Frame Content Waring" prints to `output` directory.|  |
 | 3112-12-04.pptx                       | Pre: Fail                 | Working        | Fail/Pass - Misses all vocab words |                          |
+|                                       | Pre: Fail                 | Working        | Fail/Pass - Multiple blank rows on video <br>qa sheet before Total Time and 'status' legend |     |
 |                                       | Pre: Fail                 | Working        | Fail/Pass - empty slides at end are printing |     |
 | 8525-03-02.pptx                       | Pre: Fail                 | Working        | Fail/Pass - Pulls wrong words for vocab and misses real vocab words |     |
+|                                       | Pre: Fail                 | Working        | Fail/Pass - Multiple blank rows on video <br>qa sheet before Total Time and 'status' legend |     |
 | 8525-01-06.pptx                       | Pre: Fail                 | Working        | Fail/Pass - Missing data, line 15 (slide 9) |                          |
+|                                       | Pre: Fail                 | Working        | Fail/Pass - Multiple blank rows on video <br>qa sheet before Total Time and 'status' legend |     |
 |                                       | Pre: Fail                 | Working        | Fail/Pass - Pulls wrong words for vocab and misses real vocab words |     |
 |                                       | Pre: Fail                 | Working        | Fail/Pass - empty slides at end are printing |     |
 | 8525-04-06.pptx                       | Pre: Fail                 | Working        | Fail/Pass - Missing data, line 15 (slide 9) |                          |
