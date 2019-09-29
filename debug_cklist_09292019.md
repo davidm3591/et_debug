@@ -39,6 +39,6 @@
 |                   |                        |              |
 |8525-03-02.pptx    | Yes                    | Empty slides at end of extraction sheet: move graphics slide(s) to front info section |
 |8525-01-06.pptx    | Yes                    | Missing data, tagging: add No Audio: NA |
-|                   |                        |              |
+|                   | Yes                    | Empty slides at end of extraction sheet: move graphics slide(s) to front info section |
 |                   |                        |              |
 |8525-04-06.pptx    | Yes                    | Missing data, tagging: add No Audio: NA |
