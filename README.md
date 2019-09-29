@@ -18,6 +18,16 @@
 |                         | Post: Pass                     | Fixed-complete | Temp Solution-Output Equation Error File.<br>User receives (1)"Text Format Error" pop-up warning and<br>(2)"Frame Content Waring" prints to `output` directory.| 09/26/19, Pass, SW |
 | 8103-11-04.pptx         | Pre: Fail                      | Working        | Extraction fail - equation codec error |    |
 |                         | Post: Pass                     | Fixed-complete | Temp Solution-Output Equation Error File.<br>User receives (1)"Text Format Error" pop-up warning and<br>(2)"Frame Content Waring" prints to `output` directory.| 09/26/19, Pass, SW |
+
+
+| File                                  | Pre, Post-fix (Pass/Fail) | Status         | Notes/Comments          | Validated/Date/Pass/Fail |
+|---------------------------------------|---------------------------|----------------|-------------------------|--------------------------|
+| 3112-11-12.pptx | Post: Pass          | Pre: Fail | In Progress |  |
+| 3112-11-12.pptx | Post: Pass          | Pre: Fail | In Progress |  |
+| 3112-12-04.pptx | Post: Pass          | Pre: Fail | In Progress |  |
+| 8525-03-02.pptx | Post: Pass          | Pre: Fail | In Progress |  |
+| 8525-01-06.pptx | Post: Pass          | Pre: Fail | In Progress |  |
+| 8525-04-06.pptx | Post: Pass          | Pre: Fail | In Progress |  |
 ______
 
 
