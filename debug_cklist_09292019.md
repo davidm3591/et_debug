@@ -49,20 +49,20 @@
 
 * [ ] 1. Verify that previous vocab work was not lost in versioning
 - * [X] Version v0.4.2-alpha - pull copy of code for "Beyond Compare" (extraction_pptx.py and extraction_out.py)
-- * [ ] Version v0.4.1-alpha - vocab code matches:
-- * [ ] Version v0.4.0-alpha - vocab code matches:
+- * [X] Version v0.4.1-alpha - vocab code matches:
+- * [X] Version v0.4.0-alpha - vocab code matches:
 
-* [ ] 2. What's next?
+* [ ] 2. Partial, wrong, or missing vocab
 
-|File               | Fix Anything? (Yes/No) | Fixed What?  |
-|-------------------|------------------------|--------------|
-| 3112-11-12.pptx   |                        |              |
-| 3112-12-02.pptx   |                        |              |
-| 3112-12-04.pptx   |                        |              |
-| 8525-03-02.pptx   |                        |              |
-| 8525-01-06.pptx   |                        |              |
-| 8525-04-06.pptx   |                        |              |
-| -                 |                        |              |
-| -                 |                        |              |
-| -                 |                        |              |
-| -                 |                        |              |
+|File               | Fixed? (Yes/No) | Fixed What?  |
+|-------------------|-----------------|--------------|
+| 3112-11-12.pptx   |                 | Wrong vocab words - |
+| 3112-12-02.pptx   | Yes             | Missing vocab words - was using hyphen<br>instead ofdash replaced hyphen with dash |
+| 3112-12-04.pptx   |                 | Missing vocab words - |
+| 8525-03-02.pptx   | Yes             | Wrong vocab words - dash in words on<br>slide 56 replaced dash with colon |
+| 8525-01-06.pptx   | Yes             | Wrong vocab words - dash in words on<br>slide 56 replaced dash with colon |
+| 8525-04-06.pptx   | N/A             |              |
+| -                 |                 |              |
+| -                 |                 |              |
+| -                 |                 |              |
+| -                 |                 |              |
