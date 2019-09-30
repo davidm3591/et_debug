@@ -48,7 +48,9 @@
 ### No Vocab or Wrong Vocab
 
 * [ ] 1. Verify that previous vocab work was not lost in versioning
-- * [ ] Version v0.4.1-alpha
+- * [ ] Version v0.4.2-alpha - pull copy of code for "Beyond Compare"
+- * [ ] Version v0.4.1-alpha - vocab code matches:
+- * [ ] Version v0.4.0-alpha - vocab code matches:
 
 |File               | Fix Anything? (Yes/No) | Fixed What?  |
 |-------------------|------------------------|--------------|
