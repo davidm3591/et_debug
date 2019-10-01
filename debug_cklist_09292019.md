@@ -56,9 +56,9 @@
 
 |File               | Fixed? (Yes/No) | Fixed What?  |
 |-------------------|-----------------|--------------|
-| 3112-11-12.pptx   |                 | Wrong vocab words - |
+| 3112-11-12.pptx   | Yes             | Missing vocab words - was using hyphen<br>instead ofdash replaced hyphen with dash<br>dash in words on<br>slide 22 replaced dash with colon | |
 | 3112-12-02.pptx   | Yes             | Missing vocab words - was using hyphen<br>instead ofdash replaced hyphen with dash |
-| 3112-12-04.pptx   |                 | Missing vocab words - |
+| 3112-12-04.pptx   | Yes             | Missing vocab words - was using hyphen<br>instead ofdash replaced hyphen with dash |
 | 8525-03-02.pptx   | Yes             | Wrong vocab words - dash in words on<br>slide 56 replaced dash with colon |
 | 8525-01-06.pptx   | Yes             | Wrong vocab words - dash in words on<br>slide 56 replaced dash with colon |
 | 8525-04-06.pptx   | N/A             |              |
