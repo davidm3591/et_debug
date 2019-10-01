@@ -52,7 +52,7 @@
 - * [X] Version v0.4.1-alpha - vocab code matches: Correct
 - * [X] Version v0.4.0-alpha - vocab code matches: Correct
 
-* [X] 2. Partial, wrong, or missing vocab - PPT formatting
+* [X] 2. Partial, wrong, or missing vocab - Find what issue is causing bug
 
 |File               | Fixed? (Yes/No) | Fixed What?  |
 |-------------------|-----------------|--------------|
@@ -61,8 +61,20 @@
 | 3112-12-04.pptx   | Yes             | Missing vocab words - was using hyphen<br>instead ofdash replaced hyphen with dash |
 | 8525-03-02.pptx   | Yes             | Wrong vocab words - dash in words on<br>slide 56 replaced dash with colon |
 | 8525-01-06.pptx   | Yes             | Wrong vocab words - dash in words on<br>slide 56 replaced dash with colon |
+| 8525-04-06.pptx   | N/A             | -            |
+
+
+* [ ] 3. Partial, wrong, or missing vocab - Code fixes:
+- * [ ] Use hypen or dash for the vocab word notes slides
+- * [ ] Check if dash or hyphen content is vocab word(s)
+- * [ ] If content is not in a vocab notes slide, ignore
+        as vocab and treat for whatever else it is instead
+
+|File               | Fixed? (Yes/No) | Fixed What?  |
+|-------------------|-----------------|--------------|
+| 3112-11-12.pptx   |                 |              |
+| 3112-12-02.pptx   |                 |              |
+| 3112-12-04.pptx   |                 |              |
+| 8525-03-02.pptx   |                 |              |
+| 8525-01-06.pptx   |                 |              |
 | 8525-04-06.pptx   | N/A             |              |
-| -                 |                 |              |
-| -                 |                 |              |
-| -                 |                 |              |
-| -                 |                 |              |
