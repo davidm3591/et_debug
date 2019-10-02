@@ -7,7 +7,7 @@
 | File                                  | Pre, Post-fix (Pass/Fail) | Status         | Notes/Comments          | Validated/Date/Pass/Fail |
 |---------------------------------------|---------------------------|----------------|-------------------------|--------------------------|
 | __3112-11-12.pptx__                   | Pre: Fail                 | Working        | Fail/Pass - Pulls wrong words for vocab and misses real vocab words |     |
-|                                       | Post:                     | Fixed-complete | Fail/Pass - empty slides at end are printing |     |
+|                                       | Post: Pass                | Fixed-complete | Fail/Pass - empty slides at end are printing<br>Moved graphics info slide to front info section of PPT | 10/02/2019, Pass, drm |
 |                                       | Pre: Fail                 | Working        | Fail/Pass - equation codec error |     |
 |                                       | Post:                     | Fixed-complete | Temp Solution-Output Equation Error File.<br>User receives (1)"Text Format Error" pop-up warning and<br>(2)"Frame Content Waring" prints to `output` directory.|  |
 | __3112-12-02.pptx__                   | Pre: Fail                 | Working        | Fail/Pass - Misses all vocab words |     |
