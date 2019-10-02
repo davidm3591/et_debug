@@ -6,42 +6,42 @@
 
 | File                                  | Pre, Post-fix (Pass/Fail) | Status         | Notes/Comments          | Validated/Date/Pass/Fail |
 |---------------------------------------|---------------------------|----------------|-------------------------|--------------------------|
-| 3112-11-12.pptx                       | Pre: Fail                 | Working        | Fail/Pass - Pulls wrong words for vocab and misses real vocab words |     |
+| __3112-11-12.pptx__                   | Pre: Fail                 | Working        | Fail/Pass - Pulls wrong words for vocab and misses real vocab words |     |
 |                                       | Post:                     | Fixed-complete | Fail/Pass - empty slides at end are printing |     |
 |                                       | Pre: Fail                 | Working        | Fail/Pass - equation codec error |     |
 |                                       | Post:                     | Fixed-complete | Temp Solution-Output Equation Error File.<br>User receives (1)"Text Format Error" pop-up warning and<br>(2)"Frame Content Waring" prints to `output` directory.|  |
-| 3112-12-02.pptx                       | Pre: Fail                 | Working        | Fail/Pass - Misses all vocab words |     |
+| __3112-12-02.pptx__                   | Pre: Fail                 | Working        | Fail/Pass - Misses all vocab words |     |
 |                                       | Pre: Fail                 | Working        | Fail/Pass - Multiple blank rows on video <br>qa sheet before Total Time and 'status' legend |     |
 |                                       | Pre: Fail                 | Fixed-complete | Fail/Pass - empty slides at end are printing |     |
 |                                       | Pre: Fail                 | Working        | Fail/Pass - equation codec error |     |
 |                                       | Post:                     | Fixed-complete | Temp Solution-Output Equation Error File.<br>User receives (1)"Text Format Error" pop-up warning and<br>(2)"Frame Content Waring" prints to `output` directory.|  |
-| 3112-12-04.pptx                       | Pre: Fail                 | Working        | Fail/Pass - Misses all vocab words |                          |
+| __3112-12-04.pptx__                   | Pre: Fail                 | Working        | Fail/Pass - Misses all vocab words |                          |
 |                                       | Pre: Fail                 | Working        | Fail/Pass - Multiple blank rows on video <br>qa sheet before Total Time and 'status' legend |     |
 |                                       | Post:                     | Fixed-complete | Fail/Pass - empty slides at end are printing |     |
-| 8525-03-02.pptx                       | Pre: Fail                 | Working        | Fail/Pass - Pulls wrong words for vocab and misses real vocab words |     |
+| __8525-03-02.pptx__                   | Pre: Fail                 | Working        | Fail/Pass - Pulls wrong words for vocab and misses real vocab words |     |
 |                                       | Pre: Fail                 | Working        | Fail/Pass - Multiple blank rows on video <br>qa sheet before Total Time and 'status' legend |     |
 |                                       | Post:                     | Fixed-complete | Fail/Pass - empty slides at end are printing |     |
-| 8525-01-06.pptx                       | Post:                     | Fixed-complete | Fail/Pass - Missing data, line 15 (slide 9) |                          |
+| __8525-01-06.pptx__                   | Post:                     | Fixed-complete | Fail/Pass - Missing data, line 15 (slide 9) |                          |
 |                                       | Pre: Fail                 | Working        | Fail/Pass - Multiple blank rows on video <br>qa sheet before Total Time and 'status' legend |     |
 |                                       | Pre: Fail                 | Working        | Fail/Pass - Pulls wrong words for vocab and misses real vocab words |     |
 |                                       | Post:                     | Fixed-complete | Fail/Pass - empty slides at end are printing |     |
-| 8525-04-06.pptx                       | Post:                     | Fixed-complete | Fail/Pass - Missing data, line 15 (slide 9) |                          |
+| __8525-04-06.pptx__                   | Post:                     | Fixed-complete | Fail/Pass - Missing data, line 15 (slide 9) |                          |
 
 ### 2. Local Disk (C:\projects\extraction_tool_project\testing_debug_files\extraction-testing-09102019\failed-ppts) - Release: v0.4.1-alpha
 
 | File                    | Pre, Post-fix (Pass/Fail)      | Status         | Notes/Comments          | Validated/Date/Pass/Fail                 |
 |-------------------------|--------------------------------|----------------|-------------------------|------------------------------------------|
-| 3112-09-02.pptx         | Pre: Fail                      | Working        | Fail/Pass - equation codec error |    |
+| __3112-09-02.pptx__     | Pre: Fail                      | Working        | Fail/Pass - equation codec error |    |
 |                         | Post: Pass                     | Fixed-complete | Temp Solution-Output Equation Error File.<br>User receives (1)"Text Format Error" pop-up warning and<br>(2)"Frame Content Waring" prints to `output` directory.| 09/26/19, Pass, SW |
-| 3112-09-06.pptx         | Pre: Fail                      | Working        | Fail/Pass - equation codec error          |  |
+| __3112-09-06.pptx__     | Pre: Fail                      | Working        | Fail/Pass - equation codec error          |  |
 |                         | Post: Pass                     | Fixed-complete | Temp Solution-Output Equation Error File.<br>User receives (1)"Text Format Error" pop-up warning and<br>(2)"Frame Content Waring" prints to `output` directory.| 09/26/19, Pass, SW |
-| 3112-09-10.pptx         | Pre: Fail                      | Working        | Fail/Pass - equation codec error |    |
+| __3112-09-10.pptx__     | Pre: Fail                      | Working        | Fail/Pass - equation codec error |    |
 |                         | Post: Pass                     | Fixed-complete | Temp Solution-Output Equation Error File.<br>User receives (1)"Text Format Error" pop-up warning and<br>(2)"Frame Content Waring" prints to `output` directory.| 09/26/19, Pass, SW |
-| 3112-10-04.pptx         | Pre: Fail                      | Working        | Fail/Pass - equation codec error |    |
+| __3112-10-04.pptx__     | Pre: Fail                      | Working        | Fail/Pass - equation codec error |    |
 |                         | Post: Pass                     | Fixed-complete | Temp Solution-Output Equation Error File.<br>User receives (1)"Text Format Error" pop-up warning and<br>(2)"Frame Content Waring" prints to `output` directory.| 09/26/19, Pass, SW |
-| 3112-10-06.pptx         | Pre: Fail                      | Working        | Fail/Pass - equation codec error |    |
+| __3112-10-06.pptx__     | Pre: Fail                      | Working        | Fail/Pass - equation codec error |    |
 |                         | Post: Pass                     | Fixed-complete | Temp Solution-Output Equation Error File.<br>User receives (1)"Text Format Error" pop-up warning and<br>(2)"Frame Content Waring" prints to `output` directory.| 09/26/19, Pass, SW |
-| 8103-11-04.pptx         | Pre: Fail                      | Working        | Fail/Pass - equation codec error |    |
+| __8103-11-04.pptx__     | Pre: Fail                      | Working        | Fail/Pass - equation codec error |    |
 |                         | Post: Pass                     | Fixed-complete | Temp Solution-Output Equation Error File.<br>User receives (1)"Text Format Error" pop-up warning and<br>(2)"Frame Content Waring" prints to `output` directory.| 09/26/19, Pass, SW |
 
 ______
@@ -49,20 +49,31 @@ ______
 
 ## Completed Bugs
 
-### No Vocab (C:\projects\extraction_tool_project\testing_debug_files\no_vocab_ppts) - Release: v0.4.0-alpha
+### NO VOCAB - Local Disk (C:\projects\extraction_tool_project\testing_debug_files\test_files_sam_08132019) - Release: v0.4.0-alpha
+
+| File                | Pre, Post-fix (Pass/Fail) | Status | Notes/ments                                       | Validated/Date/Pass/Fail |
+|---------------------|---------------------------|--------|---------------------------------------------------|--------------------------|
+| __8309-02-15.pptx__ |                           |        | see ..\extraction-testing-09102019\pass-fail-ppts | N/A                      |
+| __8518-06-06.pptx__ |                           |        | ``` Can't locate this PowerPoint ```              |                          |
+| __8525-01-01.pptx__ |                           |        | see ..\extraction-testing-09102019\pass-fail-ppts | N/A                      |
+| __8705-07-04.pptx__ |                           |        | see ..\extraction-testing-09102019\pass-fail-ppts | N/A                      |
+| __3112-09-02.pptx__ |                           |        | see ..\extraction-testing-09102019\failed-ppts    | N/A                      |
+
+
+### Local Disk (C:\projects\extraction_tool_project\testing_debug_files\no_vocab_ppts) - Release: v0.4.0-alpha
 
 __Part 1__
 
-| File                                  | Pre, Post-fix (Pass/Fail)      | Status         | Notes/Comments          | Validated/Date/Pass/Fail |
-|---------------------------------------|--------------------------------|----------------|-------------------------|--------------------------|
-| 8309-02-15-Lab_Cell Size.pptx         | Post: Pass                     | Fixed-complete | PPT has no vocab words  | 09/24/19, Pass, SW |
-| 8309-05-07-Mendelian Inheritance.pptx | Post: Pass                     | Fixed-complete | PPT has no vocab words  | 09/25/19, Pass, SW |
-| 8309-07-03-Natural Selection.pptx     | Post: Pass                     | Fixed-complete | PPT has no vocab words  | 09/25/19, Pass, SW |
-| 8309-07-04-Artificial Selection.pptx  | Post: Pass                     | Fixed-complete | PPT has no vocab words  | 09/24/19, Pass, SW |
-| 8309-07-12-Common Ancestry.pptx       | Post: Pass                     | Fixed-complete | PPT has no vocab words  | 09/24/19, Pass, SW |
+| File                                      | Pre, Post-fix (Pass/Fail)      | Status         | Notes/Comments          | Validated/Date/Pass/Fail |
+|-------------------------------------------|--------------------------------|----------------|-------------------------|--------------------------|
+| __8309-02-15-Lab_Cell Size.pptx__         | Post: Pass                     | Fixed-complete | PPT has no vocab words  | 09/24/19, Pass, SW       |
+| __8309-05-07-Mendelian Inheritance.pptx__ | Post: Pass                     | Fixed-complete | PPT has no vocab words  | 09/25/19, Pass, SW       |
+| __8309-07-03-Natural Selection.pptx__     | Post: Pass                     | Fixed-complete | PPT has no vocab words  | 09/25/19, Pass, SW       |
+| __8309-07-04-Artificial Selection.pptx__  | Post: Pass                     | Fixed-complete | PPT has no vocab words  | 09/24/19, Pass, SW       |
+| __8309-07-12-Common Ancestry.pptx__       | Post: Pass                     | Fixed-complete | PPT has no vocab words  | 09/24/19, Pass, SW       |
 
 
-### No Vocab (C:\projects\extraction_tool_project\testing_debug_files\no_vocab_ppts) - Release: v0.4.1-alpha
+### NO VOCAB - Local Disk (C:\projects\extraction_tool_project\testing_debug_files\no_vocab_ppts) - Release: v0.4.1-alpha
 
 __Part 2__
 
