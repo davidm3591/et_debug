@@ -49,7 +49,7 @@ ______
 
 ## Completed Bugs
 
-### NO VOCAB - Local Disk (C:\projects\extraction_tool_project\testing_debug_files\test_files_sam_08132019) - Release: v0.4.0-alpha
+### Local Disk (C:\projects\extraction_tool_project\testing_debug_files\test_files_sam_08132019) - Release: v0.4.0-alpha
 
 | File                | Pre, Post-fix (Pass/Fail) | Status | Notes/ments                                       | Validated/Date/Pass/Fail |
 |---------------------|---------------------------|--------|---------------------------------------------------|--------------------------|
