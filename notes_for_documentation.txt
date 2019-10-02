@@ -1,29 +1,25 @@
 ﻿Documentation Update/Build Notes
 
 
-1. All non #Anchor and non #Frame video slides still require the #video tag
+1. Add #video tags to all video follow on frames. (All non #Anchor and non #Frame video slides still require the #video tag.)
 
-2. Times need to be correct format (decimal minutes 0.5 min/minutes), examples:
+2. No Audio: NA - for task frame without audio (entry, hint, exit).
 
-```
-Timing ≈ 0.5
+3. Times need to be correct format (decimal minutes 0.5 min/minutes), examples:
 
 Timing ≈ 0.5 min
-
 Timing ≈ 0.5 minute
-
 Timing ≈ 0.5 minutes
 
-```
 
-3. All information slides (graphics, etc.) need to go to front of the pptx slides with the rest of the information slides, not at the end of the presentation.
+4. All information slides (graphics, etc.) need to go to front of the pptx slides with the rest of the information slides, not at the end of the presentation.
 
-4. The vocab words need to be separated by an en dash (Unicode hex: 2013) and preceded by the the phrase "Words and Definitions:" on its own line. Example
+5. The vocab words need to be separated by an en dash (Unicode hex: 2013) and preceded by the the phrase "Words and Definitions:" on its own line. Example
 
-```
 Words and Definitions:
 
 one – is the lonliest number
 two – is just as bad as one, it's the lonliest
-three – a heck, just leave it alone
-```
+three – ah heck, just leave it alone
+
+
