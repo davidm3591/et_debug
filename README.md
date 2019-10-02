@@ -54,7 +54,7 @@ ______
 | File                | Pre, Post-fix (Pass/Fail) | Status | Notes/ments                                       | Validated/Date/Pass/Fail |
 |---------------------|---------------------------|--------|---------------------------------------------------|--------------------------|
 | __8309-02-15.pptx__ |                           |        | see ..\extraction-testing-09102019\pass-fail-ppts | N/A                      |
-| __8518-06-06.pptx__ |                           |        | ```Can't locate this PowerPoint```                |                          |
+| __8518-06-06.pptx__ |                           |        | *__Can't locate this PowerPoint__*                |                          |
 | __8525-01-01.pptx__ |                           |        | see ..\extraction-testing-09102019\pass-fail-ppts | N/A                      |
 | __8705-07-04.pptx__ |                           |        | see ..\extraction-testing-09102019\pass-fail-ppts | N/A                      |
 | __3112-09-02.pptx__ |                           |        | see ..\extraction-testing-09102019\failed-ppts    | N/A                      |
