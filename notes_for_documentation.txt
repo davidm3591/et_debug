@@ -15,6 +15,15 @@ Timing ≈ 0.5 minute
 Timing ≈ 0.5 minutes
 
 ```
+
 3. All information slides (graphics, etc.) need to go to front of the pptx slides with the rest of the information slides, not at the end of the presentation.
 
-4. The vocab words need to be separated by an endash and preceded by the the phrase "Words and Definitions:" on its own line.
+4. The vocab words need to be separated by an en dash (Unicode hex: 2013) and preceded by the the phrase "Words and Definitions:" on its own line. Example
+
+```
+Words and Definitions:
+
+one – is the lonliest number
+two – is just as bad as one, it's the lonliest
+three – a heck, just leave it alone
+```
