@@ -21,11 +21,11 @@
 | __8525-03-02.pptx__                   | Pre: Fail                 | Working        | Fail/Pass - Pulls wrong words for vocab and misses real vocab words |     |
 |                                       | Pre: Fail                 | Working        | Fail/Pass - Multiple blank rows on video <br>qa sheet before Total Time and 'status' legend |     |
 |                                       | Post:                     | Fixed-complete | Empty slides at end are printing.<br>Moved graphics info slide to front info section of PPT | 10/02/2019, Pass, drm |
-| __8525-01-06.pptx__                   | Post:                     | Fixed-complete | Fail/Pass - Missing data, line 15 (slide 9) |                          |
+| __8525-01-06.pptx__                   | Post:                     | Fixed-complete | Missing data, line 15 (slide 9) | 10/01/2019, Pass, SW |
 |                                       | Pre: Fail                 | Working        | Fail/Pass - Multiple blank rows on video <br>qa sheet before Total Time and 'status' legend |     |
-|                                       | Pre: Fail                 | Working        | Fail/Pass - Pulls wrong words for vocab and misses real vocab words |     |
+|                                       | Pre: Fail                 | Working        | Pulls wrong words for vocab and misses real vocab words.<br>Changed dashes to hyphens | 10/01/2019, Pass, SW |
 |                                       | Post:                     | Fixed-complete | Empty slides at end are printing.<br>Moved graphics info slide to front info section of PPT | 10/02/2019, Pass, drm |
-| __8525-04-06.pptx__                   | Post:                     | Fixed-complete | Fail/Pass - Missing data, line 15 (slide 9) |                          |
+| __8525-04-06.pptx__                   | Post:                     | Fixed-complete | Fail/Pass - Missing data, line 15 (slide 9) | 10/01/2019, Pass, SW |
 
 ### 2. Local Disk (C:\projects\extraction_tool_project\testing_debug_files\extraction-testing-09102019\failed-ppts) - Release: v0.4.1-alpha
 
