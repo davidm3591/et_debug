@@ -1,0 +1,20 @@
+﻿Documentation Update/Build Notes
+
+
+1. All non #Anchor and non #Frame video slides still require the #video tag
+
+2. Times need to be correct format (decimal minutes 0.5 min/minutes), examples:
+
+```
+Timing ≈ 0.5
+
+Timing ≈ 0.5 min
+
+Timing ≈ 0.5 minute
+
+Timing ≈ 0.5 minutes
+
+```
+3. All information slides (graphics, etc.) need to go to front of the pptx slides with the rest of the information slides, not at the end of the presentation.
+
+4. The vocab words need to be separated by an endash and preceded by the the phrase "Words and Definitions:" on its own line.
