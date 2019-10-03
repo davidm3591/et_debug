@@ -70,10 +70,10 @@ ______
 
 ### Local Disk (C:\projects\extraction_tool_project\testing_debug_files\test_files_sam_08132019) - Release: v0.4.0-alpha
 
-| File                | Pre, Post-fix (Pass/Fail) | Status   | Notes/ments                                       | Validated/Date/Pass/Fail |
+| File                | Pre, Post-fix (Pass/Fail) | Status   | Notes/Comments                                    | Validated/Date/Pass/Fail |
 |---------------------|---------------------------|----------|---------------------------------------------------|--------------------------|
 | __8309-02-15.pptx__ |                           | Complete | see ..\extraction-testing-09102019\pass-fail-ppts | N/A                      |
-| __8518-06-06.pptx__ |                           |          | *__Can't locate this PowerPoint__*                |                          |
+| __8518-06-06.pptx__ |  |  | **See 8518-06-06-notes.md** |                          |
 | __8525-01-01.pptx__ |                           | Complete | see ..\extraction-testing-09102019\pass-fail-ppts | N/A                      |
 | __8705-07-04.pptx__ |                           | Complete | see ..\extraction-testing-09102019\pass-fail-ppts | N/A                      |
 | __3112-09-02.pptx__ |                           | Complete | see ..\extraction-testing-09102019\failed-ppts    | N/A                      |
