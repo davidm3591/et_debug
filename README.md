@@ -2,7 +2,25 @@
 ## Current Release: 0.4.3-alpha
 ## Current Bugs
 
-### 1. Local Disk (C:\projects\extraction_tool_project\testing debug files\extraction-testing-09202019\duplicate-errors-ppts) - Release v0.4.2-alpha
+
+### Local Disk (C:\projects\extraction_tool_project\testing_debug_files\extraction-testing-09262019\pass-fail-ppts) - Release: v0.4.3-alpha
+
+| File                | Pre, Post-fix (Pass/Fail) | Status         | Notes/Comments                                    | Validated/Date/Pass/Fail |
+|---------------------|---------------------------|----------------|---------------------------------------------------|--------------------------|
+| __3112-09-10.pptx__ | Pre: Fail                 | Working        | Missing vocab                                     |                          |
+| __3112-09-02.pptx__ | Pre: Fail                 | Working        | Missing vocab                                     |                          |
+| __3112-09-06.pptx__ | Pre: Fail                 | Working        | Missing vocab                                     |                          |
+| __3112-10-06.pptx__ | Pre: Fail                 | Working        | Missing vocab                                     |                          |
+| __3112-10-04.pptx__ | Pre: Fail                 | Working        | Missing vocab                                     |                          |
+| __3112-11-12.pptx__ | Pre: Fail                 | Working        | Missing vocab                                     | see ..\extraction-testing-09202019\duplicate-errors-ppts |
+| __3112-12-02.pptx__ | Pre: Fail                 | Working        | Missing vocab                                     | see ..\extraction-testing-09202019\duplicate-errors-ppts |
+| __3112-12-04.pptx__ | Pre: Fail                 | Working        | Incorrect & missing vocab                         | see ..\extraction-testing-09202019\duplicate-errors-ppts |
+| __8525-01-06.pptx__ | Pre: Fail                 | Working        | Incorrect & missing vocab                         | see ..\extraction-testing-09202019\duplicate-errors-ppts |
+| __8103-11-04.pptx__ | Pre: Fail                 | Working        | Incorrect & missing vocab                         |                          |
+| __8525-03-02.pptx__ | Pre: Fail                 | Working        | Incorrect & missing vocab                         | see ..\extraction-testing-09202019\duplicate-errors-ppts |
+
+
+### Local Disk (C:\projects\extraction_tool_project\testing debug files\extraction-testing-09202019\duplicate-errors-ppts) - Release v0.4.2-alpha
 
 | File                                  | Pre, Post-fix (Pass/Fail) | Status         | Notes/Comments          | Validated/Date/Pass/Fail |
 |---------------------------------------|---------------------------|----------------|-------------------------|--------------------------|
@@ -27,7 +45,8 @@
 |                                       | Post: Pass                | Fixed-complete | Empty slides at end are printing.<br>Moved graphics info slide to front info section of PPT | 10/02/2019, Pass, drm |
 | __8525-04-06.pptx__                   | Post: Pass                | Fixed-complete | Fail/Pass - Missing data, line 15 (slide 9) | 10/01/2019, Pass, SW |
 
-### 2. Local Disk (C:\projects\extraction_tool_project\testing_debug_files\extraction-testing-09102019\failed-ppts) - Release: v0.4.1-alpha
+
+### Local Disk (C:\projects\extraction_tool_project\testing_debug_files\extraction-testing-09102019\failed-ppts) - Release: v0.4.1-alpha
 
 | File                    | Pre, Post-fix (Pass/Fail)      | Status         | Notes/Comments          | Validated/Date/Pass/Fail                 |
 |-------------------------|--------------------------------|----------------|-------------------------|------------------------------------------|
@@ -51,13 +70,13 @@ ______
 
 ### Local Disk (C:\projects\extraction_tool_project\testing_debug_files\test_files_sam_08132019) - Release: v0.4.0-alpha
 
-| File                | Pre, Post-fix (Pass/Fail) | Status | Notes/ments                                       | Validated/Date/Pass/Fail |
-|---------------------|---------------------------|--------|---------------------------------------------------|--------------------------|
-| __8309-02-15.pptx__ |                           |        | see ..\extraction-testing-09102019\pass-fail-ppts | N/A                      |
-| __8518-06-06.pptx__ |                           |        | *__Can't locate this PowerPoint__*                |                          |
-| __8525-01-01.pptx__ |                           |        | see ..\extraction-testing-09102019\pass-fail-ppts | N/A                      |
-| __8705-07-04.pptx__ |                           |        | see ..\extraction-testing-09102019\pass-fail-ppts | N/A                      |
-| __3112-09-02.pptx__ |                           |        | see ..\extraction-testing-09102019\failed-ppts    | N/A                      |
+| File                | Pre, Post-fix (Pass/Fail) | Status   | Notes/ments                                       | Validated/Date/Pass/Fail |
+|---------------------|---------------------------|----------|---------------------------------------------------|--------------------------|
+| __8309-02-15.pptx__ |                           | Complete | see ..\extraction-testing-09102019\pass-fail-ppts | N/A                      |
+| __8518-06-06.pptx__ |                           |          | *__Can't locate this PowerPoint__*                |                          |
+| __8525-01-01.pptx__ |                           | Complete | see ..\extraction-testing-09102019\pass-fail-ppts | N/A                      |
+| __8705-07-04.pptx__ |                           | Complete | see ..\extraction-testing-09102019\pass-fail-ppts | N/A                      |
+| __3112-09-02.pptx__ |                           | Complete | see ..\extraction-testing-09102019\failed-ppts    | N/A                      |
 
 
 ### Local Disk (C:\projects\extraction_tool_project\testing_debug_files\no_vocab_ppts) - Release: v0.4.0-alpha
