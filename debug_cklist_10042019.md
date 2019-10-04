@@ -1,7 +1,5 @@
 # ET Debug Checklist
 
-## Bug: Local Disk (C:\projects\extraction_tool_project\testing debug files\extraction-testing-09202019\duplicate-errors-ppts) - Release v0.4.2-alpha  
-
 ## Bug: Multiple Blank Lines Between Last Video and Status Legend - Release: v0.4.3-alpha
 
 ### Tagging the follow-on video slides with #video is causing the output to the Video QA worksheet to print the blank lines.  
