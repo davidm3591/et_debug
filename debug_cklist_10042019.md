@@ -4,9 +4,11 @@
 
 ## Bug: Multiple Blank Lines Between Last Video and Status Legend - Release: v0.4.3-alpha
 
+### Tagging the follow-on video slides with #video is causing the output to the Video QA worksheet to print the blank lines.  
+(Note: can't use new tag without recoding all of the video tag-type code)
+
 * [ ] 1. Review tag type code and output video code
 * [ ] 2. Check method to catch blank fields on Video QA output
- - (Note: can't use new tag without recoding all of the video tag type code)
 
 | File                | Pre, Post-fix (Pass/Fail) | Status         | Notes/Comments                                       | Validated/Date/Pass/Fail |
 |---------------------|---------------------------|----------------|------------------------------------------------------|--------------------------|
