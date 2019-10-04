@@ -5,8 +5,8 @@
 ## Bug: Multiple Blank Lines Between Last Video and Status Legend - Release: v0.4.3-alpha
 
 * [ ] 1. Review tag type code and output video code
-* [ ] 2. Check
--  * [ ] Create new tag-type vidcont or some tag to separate follow-on video frames
+* [ ] 2. Check method to catch blank fields on Video QA output
+ - (Note: can't use new tag without recoding all of the video tag type code)
 
 | File                | Pre, Post-fix (Pass/Fail) | Status         | Notes/Comments                                       | Validated/Date/Pass/Fail |
 |---------------------|---------------------------|----------------|------------------------------------------------------|--------------------------|
