@@ -30,16 +30,16 @@
 
 | File                | Pre, Post-fix (Pass/Fail) | Status         | Notes/Comments                                    | Validated/Date/Pass/Fail |
 |---------------------|---------------------------|----------------|---------------------------------------------------|--------------------------|
-| __3112-09-10.pptx__ | Pre: Fail                 | Working        | Missing vocab                                     |                          |
-| __3112-09-02.pptx__ | Pre: Fail                 | Working        | Missing vocab                                     |                          |
-| __3112-09-06.pptx__ | Pre: Fail                 | Working        | Missing vocab                                     |                          |
-| __3112-10-06.pptx__ | Pre: Fail                 | Working        | Missing vocab                                     |                          |
-| __3112-10-04.pptx__ | Pre: Fail                 | Working        | Missing vocab                                     |                          |
+| __3112-09-10.pptx__ | Post: Pass  | Fixed-complete | Missing vocab   | 10/04/2019, Pass, SW |
+| __3112-09-02.pptx__ | Post: Pass  | Fixed-complete | Missing vocab   | 10/04/2019, Pass, SW |
+| __3112-09-06.pptx__ | Post: Pass  | Fixed-complete | Missing vocab   | 10/04/2019, Pass, SW |
+| __3112-10-06.pptx__ | Post: Pass  | Fixed-complete | Missing vocab   | 10/04/2019, Pass, SW |
+| __3112-10-04.pptx__ | Post: Pass  | Fixed-complete | Missing vocab   | 10/04/2019, Pass, SW |
 | __3112-11-12.pptx__ | N/A                       | N/A Duplicate  | Missing vocab - Duplicate                         | see ..\extraction-testing-09202019\duplicate-errors-ppts |
 | __3112-12-02.pptx__ | N/A                       | N/A Duplicate  | Missing vocab - Duplicate                         | see ..\extraction-testing-09202019\duplicate-errors-ppts |
 | __3112-12-04.pptx__ | N/A                       | N/A Duplicate  | Incorrect & missing vocab - Duplicate             | see ..\extraction-testing-09202019\duplicate-errors-ppts |
 | __8525-01-06.pptx__ | N/A                       | N/A Duplicate  | Incorrect & missing vocab - Duplicate             | see ..\extraction-testing-09202019\duplicate-errors-ppts |
-| __8103-11-04.pptx__ | Pre: Fail                 | Working        | Incorrect & missing vocab                         |                          |
+| __8103-11-04.pptx__ | Post: Pass  | Fixed-complete | Missing vocab   | 10/04/2019, Pass, SW |
 | __8525-03-02.pptx__ | N/A                       | N/A Duplicate  | Incorrect & missing vocab - Duplicate             | see ..\extraction-testing-09202019\duplicate-errors-ppts |
 
 
