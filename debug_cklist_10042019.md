@@ -6,7 +6,7 @@
 
 * [ ] 1. Review tag type code and output video code
 * [ ] 2. Check
-* [ ] - Create new tag-type vidcont or some tag to separate follow-on video frames
+-  * [ ] Create new tag-type vidcont or some tag to separate follow-on video frames
 
 | File                | Pre, Post-fix (Pass/Fail) | Status         | Notes/Comments                                       | Validated/Date/Pass/Fail |
 |---------------------|---------------------------|----------------|------------------------------------------------------|--------------------------|
