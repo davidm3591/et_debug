@@ -1,6 +1,10 @@
 # ET Debug Checklist
 
 ## Bug: Local Disk (C:\projects\extraction_tool_project\testing debug files\extraction-testing-09202019\duplicate-errors-ppts) - Release v0.4.2-alpha  
+_____________
+
+# Completed
+## Bug #X: Local Disk (C:\projects\extraction_tool_project\testing debug files\extraction-testing-09202019\duplicate-errors-ppts) - Release v0.4.2-alpha  
 
 ### Missing Data & Extra Blank Slide Lines in Extraction Sheet  
 
@@ -58,17 +62,17 @@
 | 8525-04-06.pptx   | N/A             | -            |
 
 
-* [ ] 3. Partial, wrong, or missing vocab - Code fixes:
-- * [ ] Use hypen or dash for the vocab word notes slides
-- * [ ] Check if dash or hyphen content is vocab word(s)
+* [X] 3. Partial, wrong, or missing vocab - Code fixes:
+- * [X] Use hypen or dash for the vocab word notes slides
+- * [X] Check if dash or hyphen content is vocab word(s)
 - * [X] If content is not in a vocab notes slide, ignore
         as vocab and treat for whatever else it is instead
 
 |File               | Fixed? (Yes/No) | Fixed What?  |
 |-------------------|-----------------|--------------|
-| 3112-11-12.pptx   |                 |              |
-| 3112-12-02.pptx   |                 |              |
-| 3112-12-04.pptx   |                 |              |
+| 3112-11-12.pptx   | Yes             |              |
+| 3112-12-02.pptx   | Yes             |              |
+| 3112-12-04.pptx   | Yes             |              |
 | 8525-03-02.pptx   | Yes             | Pulls only vocab from slide notes regardless of other non-vocab words with dashes |
 |                   |                 |              |
 | 8525-01-06.pptx   | Yes             | Pulls only vocab from slide notes regardless of other non-vocab words with dashes |
