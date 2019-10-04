@@ -7,6 +7,8 @@
 
 * [ ] 1. Review tag type code and output video code
 * [ ] 2. Check method to catch blank fields on Video QA output
+- Create a variable for a flag
+- Set flag when certain content is blank?
 
 | File                | Pre, Post-fix (Pass/Fail) | Status         | Notes/Comments                                       | Validated/Date/Pass/Fail |
 |---------------------|---------------------------|----------------|------------------------------------------------------|--------------------------|
