@@ -16,7 +16,7 @@
 
 ### Problem-Error
    >With (a) Python 3.7, (b) python-pptx 0.6.17, and (c) XlsxWriter 1.1.5
-   >I am using `for line in slide.notes_slide.notes_text_frame.text.split("\n"):` to grab the notes slide content so I can output to an Excel spread sheet word-for-word (including symbols and equations).
+   >I am using<br> `for line in slide.notes_slide.notes_text_frame.text.split("\n"):` to grab the notes slide content so I can output to an Excel spread sheet word-for-word (including symbols and equations).
    >When a symbol (like p-hat or x-bar), or when an equation is encountered in a notes slide, I get the error:
 
    <pre>
