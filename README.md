@@ -32,7 +32,7 @@ ______
 | __3112-12-04.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/05/2019, Pass, drm    |
 | __8525-01-06.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/05/2019, Pass, drm    |
 | __8525-03-02.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/05/2019, Pass, drm    |
-  
+<br>
 
 ### Local Disk (C:\projects\extraction_tool_project\testing_debug_files\extraction-testing-09262019\pass-fail-ppts) - Release: v0.4.3-alpha
 
