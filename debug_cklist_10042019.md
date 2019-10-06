@@ -7,6 +7,12 @@
 
 ### Bug: Codec Error Crash Files - Release: v0.4.3-alpha
 
+* [ ] 1. Modify Try/Except block to output error, slide number
+* [ ] 2. Identify offending equation or symbol
+* [ ] 3. Research solutions
+  - [ ] Search for same issue(s)
+  - [ ] Use solution in the exception block
+
 | File                | Issue                     | Status         | Notes/Comments                                       | Validated/Date/Pass/Fail |
 |---------------------|---------------------------|----------------|------------------------------------------------------|--------------------------|
 | __3112-09-02.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
@@ -30,9 +36,9 @@
 
 * [X] 1. Review tag type code and output video code
 * [X] 2. Check method to catch blank fields on Video QA output
-- Created code to catch slides tagged with #video, but are only continuation of preceding slide
-- ~~Create a variable for a flag?~~
-- ~~Set flag when certain content is blank?~~
+  - Created code to catch slides tagged with #video, but are only continuation of preceding slide
+  - ~~Create a variable for a flag?~~
+  - ~~Set flag when certain content is blank?~~
 
 | File                | Issue                     | Status         | Notes/Comments                                       | Validated/Date/Pass/Fail |
 |---------------------|---------------------------|----------------|------------------------------------------------------|--------------------------|
