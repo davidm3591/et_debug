@@ -49,7 +49,7 @@ ______
 | __8525-01-06.pptx__ | N/A                       | N/A Duplicate  | Incorrect & missing vocab - Duplicate             | see ..\extraction-testing-09202019\duplicate-errors-ppts |
 | __8103-11-04.pptx__ | Post: Pass  | Fixed-complete | Missing vocab   | 10/04/2019, Pass, SW |
 | __8525-03-02.pptx__ | N/A                       | N/A Duplicate  | Incorrect & missing vocab - Duplicate             | see ..\extraction-testing-09202019\duplicate-errors-ppts |
-  
+<br>
 
 ### Local Disk (C:\projects\extraction_tool_project\testing debug files\extraction-testing-09202019\duplicate-errors-ppts) - Release v0.4.2-alpha
 
@@ -75,7 +75,7 @@ ______
 |                                       | Post: Pass                | Fixed-complete | Pulls wrong words for vocab and misses real vocab words.<br>Changed dashes to hyphens | 10/01/2019, Pass, SW |
 |                                       | Post: Pass                | Fixed-complete | Empty slides at end are printing.<br>Moved graphics info slide to front info section of PPT | 10/02/2019, Pass, drm |
 | __8525-04-06.pptx__                   | Post: Pass                | Fixed-complete | Fail/Pass - Missing data, line 15 (slide 9) | 10/01/2019, Pass, SW |
-  
+<br>
 
 ### Local Disk (C:\projects\extraction_tool_project\testing_debug_files\extraction-testing-09102019\failed-ppts) - Release: v0.4.1-alpha
 
@@ -93,7 +93,7 @@ ______
 |                         | Post: Pass                     | Fixed-complete | Temp Solution-Output Equation Error File.<br>User receives (1)"Text Format Error" pop-up warning and<br>(2)"Frame Content Waring" prints to `output` directory.| 09/26/19, Pass, SW |
 | __8103-11-04.pptx__     | ~~Pre: Fail~~                      | ~~Working~~        | ~~Fail/Pass - equation codec error~~ | **Moved to Codec Error Crash Files**   |
 |                         | Post: Pass                     | Fixed-complete | Temp Solution-Output Equation Error File.<br>User receives (1)"Text Format Error" pop-up warning and<br>(2)"Frame Content Waring" prints to `output` directory.| 09/26/19, Pass, SW |
-  
+<br>
 
 ### Local Disk (C:\projects\extraction_tool_project\testing_debug_files\test_files_sam_08132019) - Release: v0.4.0-alpha
 
@@ -104,7 +104,7 @@ ______
 | __8525-01-01.pptx__ |                           | Complete | see ..\extraction-testing-09102019\pass-fail-ppts | N/A                      |
 | __8705-07-04.pptx__ |                           | Complete | see ..\extraction-testing-09102019\pass-fail-ppts | N/A                      |
 | __3112-09-02.pptx__ |                           | Complete | see ..\extraction-testing-09102019\failed-ppts    | N/A                      |
-  
+<br>
 
 ### Local Disk (C:\projects\extraction_tool_project\testing_debug_files\no_vocab_ppts) - Release: v0.4.0-alpha
 
@@ -117,7 +117,7 @@ __Part 1__
 | __8309-07-03-Natural Selection.pptx__     | Post: Pass                     | Fixed-complete | PPT has no vocab words  | 09/25/19, Pass, SW       |
 | __8309-07-04-Artificial Selection.pptx__  | Post: Pass                     | Fixed-complete | PPT has no vocab words  | 09/24/19, Pass, SW       |
 | __8309-07-12-Common Ancestry.pptx__       | Post: Pass                     | Fixed-complete | PPT has no vocab words  | 09/24/19, Pass, SW       |
-  
+<br>
 
 ### NO VOCAB - Local Disk (C:\projects\extraction_tool_project\testing_debug_files\no_vocab_ppts) - Release: v0.4.1-alpha
 
@@ -150,8 +150,8 @@ Traceback (most recent call last):
     row, 9, all_act_times[i], ext_sht_content_line)
 IndexError: list index out of range
 </pre>
-  
-  
+<br>
+
 ### extraction-testing-09102019 (C:\projects\extraction_tool_project\testing_debug_files\extraction-testing-09102019\pass-fail-ppts) - Release: v0.4.0-alpha
 
 | File             | Pre, Post-fix (Pass/Fail) | Status         | Notes/Comments                                           | Validated/Date/Pass/Fail |
