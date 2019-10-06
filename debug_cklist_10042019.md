@@ -7,11 +7,17 @@
 
 ### Bug: Codec Error Crash Files - Release: v0.4.3-alpha
 
-* [ ] 1. Modify Try/Except block to output error traceback msg, slide number
-* [ ] 2. Identify offending equation or symbol
-* [ ] 3. Research solutions
+* [ ] 1. State the problem (see Problem-Error below)
+* [X] 2. Modify Try/Except block to output error traceback msg, slide number
+* [X] 3. Identify offending equation or symbol
+* [ ] 4. Research solutions
   - * [ ] Search for same issue(s)
   - * [ ] Use solution in the exception block
+
+### Problem-Error
+   >With python-pptx 0.6.17
+   >I am using 'for line in slide.notes_slide.notes_text_frame.text.split("\n"):' to grab the notes slide content so I can output to an Excel spread sheet word-for-word (including symbols and equations).
+
 
 | File                | Issue                     | Status         | Notes/Comments                                       | Validated/Date/Pass/Fail |
 |---------------------|---------------------------|----------------|------------------------------------------------------|--------------------------|
