@@ -90,9 +90,9 @@
 #### No Vocab or Wrong Vocab
 
 * [X] 1. Verify that previous vocab work was not lost in versioning
-- * [X] Version v0.4.2-alpha - pull copy of code for "Beyond Compare" (extraction_pptx.py and extraction_out.py)
-- * [X] Version v0.4.1-alpha - vocab code matches: Correct
-- * [X] Version v0.4.0-alpha - vocab code matches: Correct
+  - * [X] Version v0.4.2-alpha - pull copy of code for "Beyond Compare" (extraction_pptx.py and extraction_out.py)
+  - * [X] Version v0.4.1-alpha - vocab code matches: Correct
+  - * [X] Version v0.4.0-alpha - vocab code matches: Correct
 
 * [X] 2. Partial, wrong, or missing vocab - Find what issue is causing bug
 
