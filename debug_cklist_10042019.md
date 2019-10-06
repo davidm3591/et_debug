@@ -21,14 +21,14 @@
 
    <pre>
     Exception in Tkinter callback
-Traceback (most recent call last):
-  File "c:\users\david\anaconda3\Lib\tkinter\__init__.py", line 1705, in __call__
-    return self.func(*args)
-  File ".\extract_build\extraction_pptx.py", line 205, in get_file
-    read_slide(filename_path)
-  File ".\extract_build\extraction_pptx.py", line 356, in read_slide
-    for line in slide.notes_slide.notes_text_frame.text.split("\n"):
-AttributeError: 'NoneType' object has no attribute 'text'
+    Traceback (most recent call last):
+      File "c:\users\david\anaconda3\Lib\tkinter\__init__.py", line 1705, in __call__
+        return self.func(*args)
+      File ".\extract_build\extraction_pptx.py", line 205, in get_file
+        read_slide(filename_path)
+      File ".\extract_build\extraction_pptx.py", line 356, in read_slide
+        for line in slide.notes_slide.notes_text_frame.text.split("\n"):
+    AttributeError: 'NoneType' object has no attribute 'text'
    </pre>
 
 
