@@ -2,19 +2,11 @@
 ## Current Release: 0.4.3-alpha
 ## Current Bugs
 
-### Multiple Blank Lines Between Last Video and Status Legend - Release: v0.4.3-alpha
-
-| File                | Pre, Post-fix (Pass/Fail) | Status         | Notes/Comments                                       | Validated/Date/Pass/Fail |
-|---------------------|---------------------------|----------------|------------------------------------------------------|--------------------------|
-| __3112-12-04.pptx__ |                           |                | ..\extraction-testing-09202019\duplicate-errors-ppts |                          |
-| __8525-03-02.pptx__ |                           |                | ..\extraction-testing-09202019\duplicate-errors-ppts |                          |
-| __8525-01-06.pptx__ |                           |                | ..\extraction-testing-09202019\duplicate-errors-ppts |                          |
-| __3112-12-02.pptx__ |                           |                | ..\extraction-testing-09202019\duplicate-errors-ppts |                          |
 
 
 ### Codec Error Crash Files - Release: v0.4.3-alpha
 
-| File                | Pre, Post-fix (Pass/Fail) | Status         | Notes/Comments                                       | Validated/Date/Pass/Fail |
+| File                | Issue                     | Status         | Notes/Comments                                       | Validated/Date/Pass/Fail |
 |---------------------|---------------------------|----------------|------------------------------------------------------|--------------------------|
 | __3112-09-02.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
 | __3112-09-06.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
@@ -25,6 +17,21 @@
 | __3112-11-12.pptx__ |                           |                | ..\extraction-testing-09202019\duplicate-errors-ppts |                          |
 | __3112-12-02.pptx__ |                           |                | ..\extraction-testing-09202019\duplicate-errors-ppts |                          |
 
+
+______
+
+
+## Completed Bugs
+
+### Multiple Blank Lines Between Last Video and Status Legend - Release: v0.4.3-alpha
+
+| File                | Issue                     | Status         | Notes/Comments                                       | Validated/Date/Pass/Fail |
+|---------------------|---------------------------|----------------|------------------------------------------------------|--------------------------|
+| __3112-11-12.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/05/2019, Pass, drm    |
+| __3112-12-02.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/05/2019, Pass, drm    |
+| __3112-12-04.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/05/2019, Pass, drm    |
+| __8525-01-06.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/05/2019, Pass, drm    |
+| __8525-03-02.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/05/2019, Pass, drm    |
 
 ### Local Disk (C:\projects\extraction_tool_project\testing_debug_files\extraction-testing-09262019\pass-fail-ppts) - Release: v0.4.3-alpha
 
@@ -42,12 +49,6 @@
 | __8103-11-04.pptx__ | Post: Pass  | Fixed-complete | Missing vocab   | 10/04/2019, Pass, SW |
 | __8525-03-02.pptx__ | N/A                       | N/A Duplicate  | Incorrect & missing vocab - Duplicate             | see ..\extraction-testing-09202019\duplicate-errors-ppts |
 
-
-
-______
-
-
-## Completed Bugs
 
 ### Local Disk (C:\projects\extraction_tool_project\testing debug files\extraction-testing-09202019\duplicate-errors-ppts) - Release v0.4.2-alpha
 
