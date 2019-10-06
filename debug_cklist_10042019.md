@@ -16,7 +16,7 @@
 | __3112-11-12.pptx__ |                           |                | ..\extraction-testing-09202019\duplicate-errors-ppts |                          |
 | __3112-12-02.pptx__ |                           |                | ..\extraction-testing-09202019\duplicate-errors-ppts |                          |
 <br>
-_____________
+_____________  
 ## Resolved (or moved/grouped with a single defect bug)
 
 ### Bug: Multiple Blank Lines Between Last Video and Status Legend - Release: v0.4.3-alpha
