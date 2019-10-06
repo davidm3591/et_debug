@@ -10,8 +10,8 @@
 * [ ] 1. Modify Try/Except block to output error, slide number
 * [ ] 2. Identify offending equation or symbol
 * [ ] 3. Research solutions
-  - [ ] Search for same issue(s)
-  - [ ] Use solution in the exception block
+  - * [ ] Search for same issue(s)
+  - * [ ] Use solution in the exception block
 
 | File                | Issue                     | Status         | Notes/Comments                                       | Validated/Date/Pass/Fail |
 |---------------------|---------------------------|----------------|------------------------------------------------------|--------------------------|
