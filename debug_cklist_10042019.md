@@ -1,8 +1,27 @@
 # ET Debug Checklist
 
-## Bug: Multiple Blank Lines Between Last Video and Status Legend - Release: v0.4.3-alpha
+## Working
 
-### Tagging the follow-on video slides with #video is causing the output to the Video QA worksheet to print the blank lines.  
+
+### Bug: Codec Error Crash Files - Release: v0.4.3-alpha
+
+| File                | Issue                     | Status         | Notes/Comments                                       | Validated/Date/Pass/Fail |
+|---------------------|---------------------------|----------------|------------------------------------------------------|--------------------------|
+| __3112-09-02.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
+| __3112-09-06.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
+| __3112-09-10.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
+| __3112-10-04.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
+| __3112-10-06.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
+| __8103-11-04.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
+| __3112-11-12.pptx__ |                           |                | ..\extraction-testing-09202019\duplicate-errors-ppts |                          |
+| __3112-12-02.pptx__ |                           |                | ..\extraction-testing-09202019\duplicate-errors-ppts |                          |
+<br>
+_____________
+## Resolved (or moved/grouped with a single defect bug)
+
+### Bug: Multiple Blank Lines Between Last Video and Status Legend - Release: v0.4.3-alpha
+
+#### Tagging the follow-on video slides with #video is causing the output to the Video QA worksheet to print the blank lines.  
 (Note: can't use new tag without recoding all of the video tag-type code)
 
 * [X] 1. Review tag type code and output video code
@@ -18,33 +37,9 @@
 | __3112-12-04.pptx__ | Multiple blank lines      |                | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/05/2019, Pass, drm    |
 | __8525-01-06.pptx__ | Multiple blank lines      |                | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/05/2019, Pass, drm    |
 | __8525-03-02.pptx__ | Multiple blank lines      |                | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/05/2019, Pass, drm    |
+<br>
 
-
-
-## Bug: Codec Error Crash Files - Release: v0.4.3-alpha
-
-| File                | Issue                     | Status         | Notes/Comments                                       | Validated/Date/Pass/Fail |
-|---------------------|---------------------------|----------------|------------------------------------------------------|--------------------------|
-| __3112-09-02.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
-| __3112-09-06.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
-| __3112-09-10.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
-| __3112-10-04.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
-| __3112-10-06.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
-| __8103-11-04.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
-| __3112-11-12.pptx__ |                           |                | ..\extraction-testing-09202019\duplicate-errors-ppts |                          |
-| __3112-12-02.pptx__ |                           |                | ..\extraction-testing-09202019\duplicate-errors-ppts |                          |
-
-
-
-
-
-
-
-
-
-
-
-### Missing Data & Extra Blank Slide Lines in Extraction Sheet  
+#### Missing Data & Extra Blank Slide Lines in Extraction Sheet  
 
 * [X] 1. Verify extraction-testing-09202019\duplicate-errors-ppts with Office 365
     
@@ -67,8 +62,8 @@
 |                   | Yes                             | Yes                   |
 |8525-04-06.pptx    | Yes                             | Yes                   |
 
-* [X] 2. Try moving the graphic and other files at the end of the ppt to the front of the ppt
-* [X] 3. Retag no audio task slides
+* [X] 2. Try moving the graphic and other info slides at the end of the ppt to the front of the ppt with the rest of the info slides
+* [X] 3. Retag no audio task slides with No Audio: NA
 
 |File               | Fix Anything? (Yes/No) | Fixed What?  |
 |-------------------|------------------------|--------------|
@@ -80,8 +75,9 @@
 |8525-01-06.pptx    | Yes                    | Missing data, tagging: add No Audio: NA |
 |                   | Yes                    | Empty slides at end of extraction sheet:<br>move graphics slide(s) to front info section |
 |8525-04-06.pptx    | Yes                    | Missing data, tagging: add No Audio: NA |
+<br>
 
-### No Vocab or Wrong Vocab
+#### No Vocab or Wrong Vocab
 
 * [X] 1. Verify that previous vocab work was not lost in versioning
 - * [X] Version v0.4.2-alpha - pull copy of code for "Beyond Compare" (extraction_pptx.py and extraction_out.py)
