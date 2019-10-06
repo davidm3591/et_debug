@@ -16,8 +16,7 @@
 | __3112-11-12.pptx__ |                           |                | ..\extraction-testing-09202019\duplicate-errors-ppts |                          |
 | __3112-12-02.pptx__ |                           |                | ..\extraction-testing-09202019\duplicate-errors-ppts |                          |
 <br>
- ---  
- ***  
+ ------------------------------------------------------------------------------
 
 ## Resolved (or moved/grouped with a single defect bug)
 
