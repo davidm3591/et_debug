@@ -19,7 +19,7 @@
    >I am using<br> `for line in slide.notes_slide.notes_text_frame.text.split("\n"):` to grab the notes slide content so I can output to an Excel spread sheet word-for-word (including symbols and equations).
    >When a symbol (like p-hat or x-bar), or when an equation or formula is encountered in a notes slide, I get the error:
 
-   <pre>
+   ><pre>
     Exception in Tkinter callback
     Traceback (most recent call last):
       File "c:\users\david\anaconda3\Lib\tkinter\__init__.py", line 1705, in __call__
@@ -29,9 +29,9 @@
       File ".\extract_build\extraction_pptx.py", line 356, in read_slide
         for line in slide.notes_slide.notes_text_frame.text.split("\n"):
     AttributeError: 'NoneType' object has no attribute 'text'
-   </pre>
+   ></pre>
    
-   >How can I pull the content (using python-pptx 0.6.17) regardless of whether it is text, a symbol, or an equation for output to Excel (using XlsxWriter 1.1.5)
+   >How can I pull the content from a PowerPoint (Office 365) (using python-pptx 0.6.17) regardless of whether it is text, a symbol, or an equation for output to Excel (Office 365) (using XlsxWriter 1.1.5) with Python 3.7?
 
 
 | File                | Issue                     | Status         | Notes/Comments                                       | Validated/Date/Pass/Fail |
