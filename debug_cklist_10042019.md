@@ -31,6 +31,16 @@
 
 * [X] 2. Modify Try/Except block to output error traceback msg, slide number
 * [X] 3. Identify offending equation or symbol
+  - Example file: __3112-11-12.pptx__
+
+  >frame_content_warning.txt content:
+  >
+  >--------------------------------
+  >SLIDE CONTENT ERROR WARNING LIST
+  >--------------------------------
+  >The following slides have text formatting problems. Please review the Extraction Sheet for content errors.
+  Slide: 8
+  >Possible format errors may include equation elements or non-standard symbols. Please compare problem slides to the Extraction Sheet for content errors. If data in the Extraction Sheet is incorrect or missing, the slide formatting errors will need to addressed.
 * [ ] 4. Research solutions
   - * [X] Create new virtualenv with newest release of python-pptx (v0.6.18)
       - ~~Try extraction with updated python~~ NOT THE ISSUE
@@ -44,7 +54,7 @@
       >To display these supplementary code points you need to use UTF-16 surrogate pairs.<br>
       >A surrogate pair is a way of representing single code points beyond 0xFFFF as two wide characters. You simply pass a surrogate pair to TextOut() and it will be displayed.
 
-  - * [ ] Soooo, see how to use UTF-16 surrogates in Python 3.x???? (as in *WTHeck*!?!?!?)
+  - * [ ] Soooo, how to use UTF-16 surrogates in Python 3.x???? (as in *WTHeck*!?!?!?)
   - * [ ] Use solution in the exception block?
 
 | File                | Issue                     | Status         | Notes/Comments                                       | Validated/Date/Pass/Fail |
