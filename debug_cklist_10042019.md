@@ -35,9 +35,8 @@
 
   >frame_content_warning.txt content:
   >
-  >--------------------------------
   >SLIDE CONTENT ERROR WARNING LIST
-  >--------------------------------
+  >
   >The following slides have text formatting problems. Please review the Extraction Sheet for content errors.
   >
   >Slide: 8
@@ -56,7 +55,9 @@
       >To display these supplementary code points you need to use UTF-16 surrogate pairs.<br>
       >A surrogate pair is a way of representing single code points beyond 0xFFFF as two wide characters. You simply pass a surrogate pair to TextOut() and it will be displayed.
 
-  - * [ ] Soooo, how to use UTF-16 surrogates in Python 3.x???? (as in *WTHeck*!?!?!?)
+  - * [ ] Soooo, how to solve(???) (textout() is a windows method)
+      - Use UTF-16 surrogates in Python 3.x - is there a module or maybe a 'method/function'? research? post?
+      - Possible to parse and treat as image? (Is in-line-conversion possible? Python does not even see it as a text-object...)
   - * [ ] Use solution in the exception block?
 
 | File                | Issue                     | Status         | Notes/Comments                                       | Validated/Date/Pass/Fail |
