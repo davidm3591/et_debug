@@ -20,7 +20,7 @@
       >To display these supplementary code points you need to use UTF-16 surrogate pairs.<br>
       >A surrogate pair is a way of representing single code points beyond 0xFFFF as two wide characters. You simply pass a surrogate pair to TextOut() and it will be displayed.
       >
-      >Source: 
+      >Source: https://stackoverflow.com/questions/5831571/textout-and-the-cambria-math-font
 
 
   - * [ ] Use solution in the exception block
