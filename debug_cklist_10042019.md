@@ -39,7 +39,9 @@
   >SLIDE CONTENT ERROR WARNING LIST
   >--------------------------------
   >The following slides have text formatting problems. Please review the Extraction Sheet for content errors.
-  Slide: 8
+  >
+  >Slide: 8
+  >
   >Possible format errors may include equation elements or non-standard symbols. Please compare problem slides to the Extraction Sheet for content errors. If data in the Extraction Sheet is incorrect or missing, the slide formatting errors will need to addressed.
 * [ ] 4. Research solutions
   - * [X] Create new virtualenv with newest release of python-pptx (v0.6.18)
