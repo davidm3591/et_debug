@@ -23,7 +23,7 @@
       >
       >Source: https://stackoverflow.com/questions/5831571/textout-and-the-cambria-math-font
 
-  - * [ ] Soooo, see how to use UTF-16 surrogates in Python 3.x???? (as in ***WTHeck***!?!?!?)
+  - * [ ] Soooo, see how to use UTF-16 surrogates in Python 3.x???? (as in *WTHeck*!?!?!?)
   - * [ ] Use solution in the exception block?
 
 ### Problem-Error
