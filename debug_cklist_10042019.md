@@ -11,9 +11,11 @@
 * [X] 2. Modify Try/Except block to output error traceback msg, slide number
 * [X] 3. Identify offending equation or symbol
 * [ ] 4. Research solutions
-  - * [ ] Create new virtualenv with newest release of python-pptx (v0.6.18)
-      - Try extraction with updated python
+  - * [X] Create new virtualenv with newest release of python-pptx (v0.6.18)
+      - ~~Try extraction with updated python~~ NOT THE ISSUE
   - * [ ] Search for same issue(s)
+      - Some of Cambria Math symbols
+      - >Quoteblock in a list?
   - * [ ] Use solution in the exception block
 
 ### Problem-Error
