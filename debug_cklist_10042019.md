@@ -7,26 +7,9 @@
 
 ### Bug: Codec Error Crash Files - Release: v0.4.3-alpha
 
-* [X] 1. State the problem (see Problem-Error below)
-* [X] 2. Modify Try/Except block to output error traceback msg, slide number
-* [X] 3. Identify offending equation or symbol
-* [ ] 4. Research solutions
-  - * [X] Create new virtualenv with newest release of python-pptx (v0.6.18)
-      - ~~Try extraction with updated python~~ NOT THE ISSUE
-  - * [X] Search for info on same issue(s)
-      - Found that some Cambria Math symbols are outside of UTF-8 (need 16 bit UTF-16 surrogate pairs)
+* [X] 1. State the problem (see Problem-Error Statement below)
 
-      >The Cambria Math font has UNICODE characters beyond 0xFFFF. You can see them in a Word document, just by inserting a Symbol and selecting the Cambria Math font. By the way, the Windows Character Map does not show these characters. My question is : how to exhibit those UNICODE characters in a Windows app using TextOut() ?
-      >
-      >To display these supplementary code points you need to use UTF-16 surrogate pairs.<br>
-      >A surrogate pair is a way of representing single code points beyond 0xFFFF as two wide characters. You simply pass a surrogate pair to TextOut() and it will be displayed.
-      >
-      >Source: https://stackoverflow.com/questions/5831571/textout-and-the-cambria-math-font
-
-  - * [ ] Soooo, see how to use UTF-16 surrogates in Python 3.x???? (as in *WTHeck*!?!?!?)
-  - * [ ] Use solution in the exception block?
-
-### Problem-Error
+### Problem-Error Statement
    >With (a) Python 3.7, (b) python-pptx 0.6.17, and (c) XlsxWriter 1.1.5
    >I am using<br> `for line in slide.notes_slide.notes_text_frame.text.split("\n"):` to grab the notes slide content so I can output to an Excel spread sheet word-for-word (including symbols and equations).
    >When a symbol (like p-hat or x-bar), or when an equation or formula is encountered in a notes slide, I get the error:
@@ -43,8 +26,26 @@
     AttributeError: 'NoneType' object has no attribute 'text'
    </pre>
    
-   >How can I pull the content from a PowerPoint (Office 365) (using python-pptx 0.6.17) regardless of whether it is text, a symbol, or an equation for output to Excel (Office 365) (using XlsxWriter 1.1.5) with Python 3.7?
+   #### What Needs to Happen:
+   >Pull the content from a PowerPoint (Office 365) (using python-pptx 0.6.17) regardless of whether it is text, a symbol, or an equation for output to Excel (Office 365) (using XlsxWriter 1.1.5) with Python 3.7?
 
+* [X] 2. Modify Try/Except block to output error traceback msg, slide number
+* [X] 3. Identify offending equation or symbol
+* [ ] 4. Research solutions
+  - * [X] Create new virtualenv with newest release of python-pptx (v0.6.18)
+      - ~~Try extraction with updated python~~ NOT THE ISSUE
+  - * [X] Search for info on same issue(s)
+      - Found that some Cambria Math symbols are outside of UTF-8 (need 16 bit UTF-16 surrogate pairs)
+
+      >Source: https://stackoverflow.com/questions/5831571/textout-and-the-cambria-math-font
+      >
+      >The Cambria Math font has UNICODE characters beyond 0xFFFF. You can see them in a Word document, just by inserting a Symbol and selecting the Cambria Math font. By the way, the Windows Character Map does not show these characters. My question is : how to exhibit those UNICODE characters in a Windows app using TextOut() ?
+      >
+      >To display these supplementary code points you need to use UTF-16 surrogate pairs.<br>
+      >A surrogate pair is a way of representing single code points beyond 0xFFFF as two wide characters. You simply pass a surrogate pair to TextOut() and it will be displayed.
+
+  - * [ ] Soooo, see how to use UTF-16 surrogates in Python 3.x???? (as in *WTHeck*!?!?!?)
+  - * [ ] Use solution in the exception block?
 
 | File                | Issue                     | Status         | Notes/Comments                                       | Validated/Date/Pass/Fail |
 |---------------------|---------------------------|----------------|------------------------------------------------------|--------------------------|
