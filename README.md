@@ -27,11 +27,11 @@ ______
 
 | File                | Issue                     | Status         | Notes/Comments                                       | Validated/Date/Pass/Fail |
 |---------------------|---------------------------|----------------|------------------------------------------------------|--------------------------|
-| __3112-11-12.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/06/2019, Pass, drm    |
-| __3112-12-02.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/06/2019, Pass, drm    |
-| __3112-12-04.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/06/2019, Pass, drm    |
-| __8525-01-06.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/06/2019, Pass, drm    |
-| __8525-03-02.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/06/2019, Pass, drm    |
+| __3112-11-12.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/06/2019, Pass, drm<br>10/07/2019, Pass, sw    |
+| __3112-12-02.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/06/2019, Pass, drm<br>10/07/2019, Pass, sw    |
+| __3112-12-04.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/06/2019, Pass, drm<br>10/07/2019, Pass, sw    |
+| __8525-01-06.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/06/2019, Pass, drm8525-01-06    |
+| __8525-03-02.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/06/2019, Pass, drm8525-01-06    |
 <br>
 
 ### Local Disk (C:\projects\extraction_tool_project\testing_debug_files\extraction-testing-09262019\pass-fail-ppts) - Release: v0.4.3-alpha
