@@ -11,10 +11,10 @@
 * [X] 2. Modify Try/Except block to output error traceback msg, slide number
 * [X] 3. Identify offending equation or symbol
 * [ ] 4. Research solutions
-  - * [ ] Create new virtualenv with newest release of python-pptx (v0.6.18)
-          - Try extraction with updated python-pptx
-  - * [ ] Search for same issue(s)
-  - * [ ] Use solution in the exception block
+         - * [ ] Create new virtualenv with newest release of python-pptx (v0.6.18)
+                 - Try extraction with updated python-pptx
+         - * [ ] Search for same issue(s)
+         - * [ ] Use solution in the exception block
 
 ### Problem-Error
    >With (a) Python 3.7, (b) python-pptx 0.6.17, and (c) XlsxWriter 1.1.5
