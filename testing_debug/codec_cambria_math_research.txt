@@ -1,0 +1,9 @@
+https://duckduckgo.com/?q=how+do+I+specify+utf-16+encoding+in+Python+3&t=ffnt&atb=v1-1&ia=web
+
+https://docs.python.org/2/library/codecs.html#standard-encodings
+
+https://stackoverflow.com/questions/5831571/textout-and-the-cambria-math-font
+
+https://en.wikipedia.org/wiki/Universal_Character_Set_characters#Surrogates
+
+https://duckduckgo.com/?q=how+to+deal+with+cambria+math+symbols+in+Python&t=ffnt&atb=v1-1&ia=web
