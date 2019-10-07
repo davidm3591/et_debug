@@ -7,7 +7,7 @@
 
 ### Bug: Codec Error Crash Files - Release: v0.4.3-alpha
 
-* [ ] 1. State the problem (see Problem-Error below)
+* [X] 1. State the problem (see Problem-Error below)
 * [X] 2. Modify Try/Except block to output error traceback msg, slide number
 * [X] 3. Identify offending equation or symbol
 * [ ] 4. Research solutions
