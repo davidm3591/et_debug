@@ -16,7 +16,7 @@
   - * [ ] Search for same issue(s)
       - Some of Cambria Math symbols
       >The Cambria Math font has UNICODE characters beyond 0xFFFF. You can see them in a Word document, just by inserting a Symbol and selecting the Cambria Math font. By the way, the Windows Character Map does not show these characters. My question is : how to exhibit those UNICODE characters in a Windows app using TextOut() ?
-      >To display these supplementary code points you need to use UTF-16 surrogate pairs.
+      >To display these supplementary code points you need to use UTF-16 surrogate pairs.<br>
       >A surrogate pair is a way of representing single code points beyond 0xFFFF as two wide characters. You simply pass a surrogate pair to TextOut() and it will be displayed.
 
 
