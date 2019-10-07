@@ -139,10 +139,10 @@
 | 8525-04-06.pptx   | N/A             | -            |
 
 
-* [ ] 3. Partial, wrong, or missing vocab - Code fixes:
-- * [ ] Use hypen or dash for the vocab word notes slides
-- * [ ] Check if dash or hyphen content is vocab word(s)
-- * [X] If content is not in a vocab notes slide, ignore
+* [X] 3. Partial, wrong, or missing vocab - Code fixes:
+  - * [X] Use hypen or dash for the vocab word notes slides
+  - * [X] Check if dash or hyphen content is vocab word(s)
+  - * [X] If content is not in a vocab notes slide, ignore
         as vocab and treat for whatever else it is instead
 
 |File               | Fixed? (Yes/No) | Fixed What?  |
