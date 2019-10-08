@@ -7,13 +7,26 @@
 
 ### Bug: Codec Error Crash Files - Release: v0.4.3-alpha
 
+| File                | Issue                     | Status         | Notes/Comments                                       | Validated/Date/Pass/Fail |
+|---------------------|---------------------------|----------------|------------------------------------------------------|--------------------------|
+| __3112-09-02.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
+| __3112-09-06.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
+| __3112-09-10.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
+| __3112-10-04.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
+| __3112-10-06.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
+| __8103-11-04.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
+| __3112-11-12.pptx__ |                           |                | ..\extraction-testing-09202019\duplicate-errors-ppts |                          |
+| __3112-12-02.pptx__ |                           |                | ..\extraction-testing-09202019\duplicate-errors-ppts |                          |
+<br>
+
 * [X] 1. State the problem (see Problem-Error Statement below)
 
-### Problem-Error Statement
-   >With (a) Python 3.7, (b) python-pptx 0.6.17, and (c) XlsxWriter 1.1.5
-   >I am using<br> `for line in slide.notes_slide.notes_text_frame.text.split("\n"):` to grab the notes slide content so I can output to an Excel spread sheet word-for-word (including symbols and equations).
-   >When a symbol (like p-hat or x-bar), or when an equation or formula is encountered in a notes slide, I get the error:
-
+### Problem-Error
+   #### To Reporduce:
+   >Use (a) Python 3.7, (b) python-pptx 0.6.17, and (c) XlsxWriter 1.1.5 with split() on new line (`for line in slide.notes_slide.notes_text_frame.text.split("\n"):`), to grab the notes slide content to output to an Excel spread sheet word-for-word (including symbols and equations).
+   >
+   >Error:
+   >When a symbol (like p-hat or x-bar), or when an equation or formula is encountered in a notes slide, it throws the following error:
    <pre>
     Exception in Tkinter callback
     Traceback (most recent call last):
@@ -26,8 +39,8 @@
     AttributeError: 'NoneType' object has no attribute 'text'
    </pre>
    
-   #### What Needs to Happen:
-   >Pull the content from a PowerPoint (Office 365) (using python-pptx 0.6.17) regardless of whether it is text, a symbol, or an equation for output to Excel (Office 365) (using XlsxWriter 1.1.5) with Python 3.7?
+   #### What Should Happen:
+   >Pull the content from a PowerPoint (Office 365) (using python-pptx ~~0.6.17~~ 0.6.18 (latest release)) regardless of whether it is text, a symbol, or an equation for output to Excel (Office 365) (using XlsxWriter 1.1.5) with Python 3.7?
 
 * [X] 2. Modify Try/Except block to output error traceback msg, slide number
 * [X] 3. Identify offending equation or symbol
@@ -60,17 +73,6 @@
       - Possible to parse and treat as image? (Is in-line-conversion possible? Python does not even see it as a text-object...)
   - * [ ] Use solution in the exception block?
 
-| File                | Issue                     | Status         | Notes/Comments                                       | Validated/Date/Pass/Fail |
-|---------------------|---------------------------|----------------|------------------------------------------------------|--------------------------|
-| __3112-09-02.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
-| __3112-09-06.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
-| __3112-09-10.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
-| __3112-10-04.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
-| __3112-10-06.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
-| __8103-11-04.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
-| __3112-11-12.pptx__ |                           |                | ..\extraction-testing-09202019\duplicate-errors-ppts |                          |
-| __3112-12-02.pptx__ |                           |                | ..\extraction-testing-09202019\duplicate-errors-ppts |                          |
-<br>
 
 <hr>
 
