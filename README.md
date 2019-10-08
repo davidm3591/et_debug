@@ -23,17 +23,9 @@ ______
 
 ## Completed Bugs
 
-### Multiple Blank Lines Between Last Video and Status Legend - Release: v0.4.3-alpha (new release with this fix: v0.4.4-alpha)
-| File                | Issue                     | Status         | Notes/Comments                                       | Validated/Date/Pass/Fail |
-|---------------------|---------------------------|----------------|------------------------------------------------------|--------------------------|
-| __3112-11-12.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/06/2019, Pass, drm<br>10/07/2019, Pass, sw |
-| __3112-12-02.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/06/2019, Pass, drm<br>10/07/2019, Pass, sw |
-| __3112-12-04.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/06/2019, Pass, drm<br>10/07/2019, Pass, sw |
-| __8525-01-06.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/06/2019, Pass, drm |
-| __8525-03-02.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/06/2019, Pass, drm |
-<br>
 
-### Local Disk (C:\projects\extraction_tool_project\testing_debug_files\ext_testing_workbook_10072019) - Release: v0.4.4-alpha<br>Activities (framechains) starting with non-video frame are not showing in the extraction sheet
+### Local Disk (C:\projects\extraction_tool_project\testing_debug_files\ext_testing_workbook_10072019) - Release: v0.4.4-alpha
+#### Activities (framechains) starting with non-video frame are not showing in the extraction sheet
 | File                | Pre, Post-fix (Pass/Fail) | Status           | Notes/Comments                              | Validated/Date/Pass/Fail                                 |
 |---------------------|---------------------------|------------------|---------------------------------------------|----------------------------------------------------------|
 | __3112-06-01.pptx__ | Post: Pass                | complete - fixed | Bug does not occur in Office 365 - resolved | Verified by Sam on<br>ext_testing_workbook_10072019.xlsx |
@@ -46,6 +38,16 @@ ______
 | __3112-06-15.pptx__ | Post: Pass                | complete - fixed | Bug does not occur in Office 365 - resolved | Verified by Sam on<br>ext_testing_workbook_10072019.xlsx |
 | __3112-06-17.pptx__ | Post: Pass                | complete - fixed | Bug does not occur in Office 365 - resolved | Verified by Sam on<br>ext_testing_workbook_10072019.xlsx |
 | __3112-06-19.pptx__ | Post: Pass                | complete - fixed | Bug does not occur in Office 365 - resolved | Verified by Sam on<br>ext_testing_workbook_10072019.xlsx |
+<br>
+
+### Multiple Blank Lines Between Last Video and Status Legend - Release: v0.4.3-alpha (new release with this fix: v0.4.4-alpha)
+| File                | Issue                     | Status         | Notes/Comments                                       | Validated/Date/Pass/Fail |
+|---------------------|---------------------------|----------------|------------------------------------------------------|--------------------------|
+| __3112-11-12.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/06/2019, Pass, drm<br>10/07/2019, Pass, sw |
+| __3112-12-02.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/06/2019, Pass, drm<br>10/07/2019, Pass, sw |
+| __3112-12-04.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/06/2019, Pass, drm<br>10/07/2019, Pass, sw |
+| __8525-01-06.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/06/2019, Pass, drm |
+| __8525-03-02.pptx__ | Multiple blank lines      | Fixed-complete | ..\extraction-testing-09202019\duplicate-errors-ppts | 10/06/2019, Pass, drm |
 <br>
 
 ### Local Disk (C:\projects\extraction_tool_project\testing_debug_files\extraction-testing-09262019\pass-fail-ppts) - Release: v0.4.3-alpha
