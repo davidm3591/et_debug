@@ -22,11 +22,11 @@
 * [X] 1. State the problem (see Problem-Error Statement below)
 
 ### Problem-Error
-   #### To Reporduce:
+   #### To Reproduce:
    >Use (a) Python 3.7, (b) python-pptx 0.6.17, and (c) XlsxWriter 1.1.5 with split() on new line (`for line in slide.notes_slide.notes_text_frame.text.split("\n"):`), to grab the notes slide content to output to an Excel spread sheet word-for-word (including symbols and equations).
    >
-   >Error:
-   >When a symbol (like p-hat or x-bar), or when an equation or formula is encountered in a notes slide, it throws the following error:
+#### Cuurrent Error:
+   >When a symbol (like p-hat or x-bar), equation or formula (font: Cambria Math)) is encountered in a notes slide, it throws the following error:
    <pre>
     Exception in Tkinter callback
     Traceback (most recent call last):
