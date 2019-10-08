@@ -44,7 +44,7 @@
 
 * [X] 2. Modify Try/Except block to output error traceback msg, slide number
 * [X] 3. Identify offending equation or symbol
-  - Example file (x-bar and p-hat): __3112-11-12.pptx__
+#### Example file (x-bar and p-hat): __3112-11-12.pptx__
 
   >frame_content_warning.txt content:
   >
