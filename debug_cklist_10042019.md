@@ -7,7 +7,7 @@
 
 |File                  | Bug Description                 | Validated/Date/Pass/Fail |
 |----------------------|---------------------------------|--------------------------|
-| __8525-03-02.pptx__  | If timing is missing "min, minute,or minutes" there is no<br>error, and time is not counted in the extraction sheet.                             |                    |
+| __8525-03-02.pptx__  | If timing is blank (missing "min, minute,or minutes") there<br>is no error, and time is not counted in the extraction sheet.                             |                    |
 
 ### Bug: Codec Error Crash Files - Release: v0.4.3-alpha
 
