@@ -3,6 +3,12 @@
 ## Current Bugs
 
 
+### Bug: Missing and wrong time format (not "min") do not throw error and trigger message
+
+|File                  | Bug Description                 | Validated/Date/Pass/Fail |
+|----------------------|---------------------------------|--------------------------|
+| __8525-03-02.pptx__  | If timing unit is blank (missing "min, minute,or minutes")<br>there is no error, and time is not counted in the extraction sheet.                             |                    |
+
 
 ### Codec Error Crash Files - Release: v0.4.4-alpha
 
