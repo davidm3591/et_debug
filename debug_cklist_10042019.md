@@ -4,6 +4,7 @@
 
 ## Working
 
+### Bug: Missing and wrong time format (not "min") do not throw error and trigger message
 
 |File                  | Bug Description                 | Validated/Date/Pass/Fail |
 |----------------------|---------------------------------|--------------------------|
