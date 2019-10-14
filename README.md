@@ -1,9 +1,9 @@
 # Testing & Debug - Next Steps
-## Current Release: 0.4.4-alpha
+## Current Release: 0.4.5-alpha
 ## Current Bugs
 
 
-### Bug: Missing and wrong time format (not "min") do not throw error and trigger message
+### Bug: Missing and wrong time format (not "min") do not throw error and trigger message - Release: v0.4.5-alpha
 
 |File                  | Bug Description                 | Validated/Date/Pass/Fail |
 |----------------------|---------------------------------|--------------------------|
