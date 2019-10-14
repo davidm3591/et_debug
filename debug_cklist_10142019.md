@@ -5,7 +5,7 @@
 ## Working
 
 
-### Bug: Codec Error Crash Files - Release: v0.4.3-alpha
+### Bug: Codec Error Crash Files - Release: v0.4.3-alpha - See end of doc for previous effort on this<sup>(1)</sup>
 
 | File                | Issue                     | Status         | Notes/Comments                                       | Validated/Date/Pass/Fail |
 |---------------------|---------------------------|----------------|------------------------------------------------------|--------------------------|
