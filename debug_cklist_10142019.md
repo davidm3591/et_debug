@@ -15,7 +15,7 @@ Create package to post to PythonistaCafe, Stack Overflow
     - * [ ] 1.2. Give a description of what has been tried so far in a text.txt file
 * [ ] 2. PowerPoint
   - * [ ] 2.1. Rename 3112-09-02.pptx to 1234-56-78.pptx
-  - * [ ] 2.2. Clean out all proprietary content from 3112-09-02.pptx
+  - * [ ] 2.2. Clean out all proprietary content from 1234-56-78.pptx (Lorem-Ipsum)
   - * [ ] 2.3. Strip out slides not needed to demo problem
 * [ ] 3. Code
   - * [ ] 3.1. Extract pertinent code that is broken - into a text.txt file
@@ -38,11 +38,11 @@ _________________
 <br>
 
 
-### Problem-Error
+### Problem-Error Information
    #### To Reproduce:
    >Use (a) Python 3.7, (b) python-pptx 0.6.17, and (c) XlsxWriter 1.1.5 with split() on new line (`for line in slide.notes_slide.notes_text_frame.text.split("\n"):`), to grab the notes slide content to output to an Excel spread sheet word-for-word (including symbols and equations).
    >
-#### Cuurrent Error:
+#### Current Error:
    >When a symbol (like p-hat or x-bar), equation or formula (font: Cambria Math)) is encountered in a notes slide, it throws the following error:
    <pre>
     Exception in Tkinter callback
