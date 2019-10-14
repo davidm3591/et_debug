@@ -11,15 +11,15 @@
 Create package to post to PythonistaCafe, Stack Overflow
 * [ ] 1. Desription of Issue
      * [ ] 1.1. Title of Problem
-    - * [ ] 1.2. Give a description of what the problem/issue is (as far as I can tell) in a text.txt file
-    - * [ ] 1.2. Give a description of what has been tried so far in a text.txt file
+     * [ ] 1.2. Give a description of what the problem/issue is (as far as I can tell) in a text.txt file
+     * [ ] 1.2. Give a description of what has been tried so far in a text.txt file
 * [ ] 2. PowerPoint
-  - * [ ] 2.1. Rename 3112-09-02.pptx to 1234-56-78.pptx
-  - * [ ] 2.2. Clean out all proprietary content from 1234-56-78.pptx (Lorem-Ipsum)
-  - * [ ] 2.3. Strip out slides not needed to demo problem
+     * [ ] 2.1. Rename 3112-09-02.pptx to 1234-56-78.pptx
+     * [ ] 2.2. Clean out all proprietary content from 1234-56-78.pptx (Lorem-Ipsum)
+     * [ ] 2.3. Strip out slides not needed to demo problem
 * [ ] 3. Code
-  - * [ ] 3.1. Extract pertinent code that is broken - into a text.txt file
-  - * [ ] 3.2. Copy error message to text.txt file
+     * [ ] 3.1. Extract pertinent code that is broken - into a text.txt file
+     * [ ] 3.2. Copy error message to text.txt file
 
 _________________
 
