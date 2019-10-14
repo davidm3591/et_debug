@@ -10,7 +10,7 @@
 
 Create package to post to PythonistaCafe, Stack Overflow
 * [ ] 1. Desription of Issue
-    - * [ ] 1.1. Title of Problem
+     * [ ] 1.1. Title of Problem
     - * [ ] 1.2. Give a description of what the problem/issue is (as far as I can tell) in a text.txt file
     - * [ ] 1.2. Give a description of what has been tried so far in a text.txt file
 * [ ] 2. PowerPoint
