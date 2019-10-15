@@ -15,8 +15,8 @@ Create package to post to PythonistaCafe, Stack Overflow
      * [ ] 1.2. Give a description of what has been tried so far in a text.txt file
 * [ ] 2. PowerPoint
      * [X] 2.1. Rename 3112-09-02.pptx to 0123-45-67.pptx
-     * [ ] 2.2. Clean out all proprietary content from 0123-45-67.pptx (Lorem-Ipsum)
-     * [ ] 2.3. Strip out slides not needed to demo problem
+     * [X] 2.2. Clean out all proprietary content from 0123-45-67.pptx (Lorem-Ipsum)
+     * [X] 2.3. Strip out slides not needed to demo problem
 * [ ] 3. Code
      * [ ] 3.1. Extract pertinent code that is broken - into a text.txt file
      * [ ] 3.2. Copy error message to text.txt file
