@@ -14,7 +14,7 @@ Create package to post to PythonistaCafe, Stack Overflow
      * [ ] 1.2. Give a description of what the problem/issue is (as far as I can tell) in a text.txt file
      * [ ] 1.2. Give a description of what has been tried so far in a text.txt file
 * [ ] 2. PowerPoint
-     * [ ] 2.1. Rename 3112-09-02.pptx to 1234-56-78.pptx
+     * [X] 2.1. Rename 3112-09-02.pptx to 0123-45-67.pptx
      * [ ] 2.2. Clean out all proprietary content from 0123-45-67.pptx (Lorem-Ipsum)
      * [ ] 2.3. Strip out slides not needed to demo problem
 * [ ] 3. Code
@@ -58,8 +58,8 @@ _________________
 
 #### Notes:
    >1. __*Biggie here*__: Why is Python seeing these objects as non-text characters??????
-   >2. Have found out that a lot of the statististical symbols are not available in Unicode as single characters. They have to be built combining character with a diacritical.
-   >3. Some MS characters require something called UTF-16 surrogate pairs
+   >2. Found out that a lot of the statististical symbols are not available in Unicode as single characters. They have to be built combining a character with a diacritical.
+   >3. Found out that some MS characters require something called UTF-16 surrogate pairs
    
    #### What Should Happen:
    >Pull the content from a PowerPoint (Office 365) (using python-pptx ~~0.6.17~~ 0.6.18 (latest release)) regardless of whether it is text, a symbol, or an equation for output to Excel (Office 365) (using XlsxWriter 1.1.5) with Python 3.7?
