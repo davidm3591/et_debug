@@ -57,9 +57,9 @@ _________________
    </pre>
 
 #### Notes:
-   >1. Have found out that a lot of the statististical symbols are not available in Unicode as single characters. They have to be built combining character with a diacritical.
-   >2. Some MS characters require something called UTF-16 surrogate pairs
-   >3. __Biggie here__: Why Python seeing these objects as non-text characters??????
+   >1. __*Biggie here*__: Why is Python seeing these objects as non-text characters??????
+   >2. Have found out that a lot of the statististical symbols are not available in Unicode as single characters. They have to be built combining character with a diacritical.
+   >3. Some MS characters require something called UTF-16 surrogate pairs
    
    #### What Should Happen:
    >Pull the content from a PowerPoint (Office 365) (using python-pptx ~~0.6.17~~ 0.6.18 (latest release)) regardless of whether it is text, a symbol, or an equation for output to Excel (Office 365) (using XlsxWriter 1.1.5) with Python 3.7?
