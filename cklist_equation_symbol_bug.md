@@ -9,22 +9,22 @@
 
 
 Create package to post to PythonistaCafe, Stack Overflow
-* [ ] 1. Desription of Issue
-     * [ ] 1.1. Title of Problem
-     * [ ] 1.2. Give a description of what the problem/issue is (as far as I can tell) in a text.txtc file
-     * [ ] 1.3. Summarize the issues with the content that is crashing
-     * [ ] 1.4. Screen shots of pptx with highlighting and text explaining wht it is
+* [X] 1. Desription of Issue
+     * [X] 1.1. Title of Problem
+     * [X] 1.2. Give a description of what the problem/issue is (as far as I can tell) in a text.txtc file
+     * [X] 1.3. Summarize the issues with the content that is crashing
+     * [X] 1.4. Screen shots of pptx with highlighting and text explaining wht it is
 * [X] 2. PowerPoint
      * [X] 2.1. Rename 3112-09-02.pptx to 0123-45-67.pptx
      * [X] 2.2. Clean out all proprietary content from 0123-45-67.pptx (Lorem-Ipsum)
      * [X] 2.3. Strip out slides not needed to demo problem
-* [ ] 3. Code
-     * [ ] 3.1. Extract pertinent code that is broken - into a file
-     * [ ] 3.2. Copy error message to the file
-     * [ ] 3.3. Add Python version and major modules to file
-     * [ ] 3.1. Extract pertinent code that is broken - into a text.txt file
-* [ ] 4. Review posting-to videos
-* [ ] 5. Review/CE post content and post
+* [X] 3. Code
+     * [X] 3.1. Extract pertinent code that is broken - into a file
+     * [X] 3.2. Copy error message to the file
+     * [X] 3.3. Add Python version and major modules to file
+     * [X] 3.1. Extract pertinent code that is broken - into a text.txt file
+* [X] 4. Review posting-to videos
+* [X] 5. Review/CE post content and post
 
 _________________
 
