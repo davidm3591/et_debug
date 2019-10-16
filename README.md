@@ -7,11 +7,11 @@
 
 |File                  | Bug Description                 | Validated/Date/Pass/Fail |
 |----------------------|---------------------------------|--------------------------|
-| __8525-03-02.pptx__  | If timing unit is blank (missing "min, minute,or minutes")<br>there is no error, and time is not counted in the extraction sheet. |                    |
-|  -                   |  -                              |  -                       |
-|  -                   |  -                              |  -                       |
-|  -                   |  -                              |  -                       |
-|  -                   |  -                              |  -                       |
+| __8525-03-02.pptx__  | If timing unit is blank (missing "min, minute,or minutes")<br>there is no error, and time is not counted in the extraction sheet. | 10/16/19, Pass, SW |
+| 8522-04-08 | “ | 10/16/19, Pass, SW |
+| 8705-07-01 | “ | 10/16/19, Pass, SW |
+| 8702-03-01 | “ | 10/16/19, Pass, SW |
+| 8309-05-03 | “ | 10/16/19, Pass, SW |
 
 
 ### Codec Error Crash Files - Release: v0.4.4-alpha
@@ -28,7 +28,10 @@
 | __3112-12-02.pptx__ |                           |                | ..\extraction-testing-09202019\duplicate-errors-ppts |                          |
 
 
-______
+### Timing - Release: v0.4.5-alpha
+
+| Timing accepted when written as `Timing: 0.5 min` or `Timing:0.5 min`. Will update in future update. |
+
 ______
 
 
