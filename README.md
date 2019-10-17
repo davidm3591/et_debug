@@ -28,9 +28,11 @@
 | __3112-12-02.pptx__ |                           |                | ..\extraction-testing-09202019\duplicate-errors-ppts |                          |
 
 
-### Timing - Release: v0.4.5-alpha
+### Timing - Release: v0.4.5-alpha (Will update in future update.)
 
-| Timing accepted when written as `Timing: 0.5 min` or `Timing:0.5 min`. Will update in future update. |
+| File                | Issue                     | Status         | Notes/Comments                                       | Validated/Date/Pass/Fail |
+|---------------------|---------------------------|----------------|------------------------------------------------------|--------------------------|
+|                     | Timing accepted when written as `Timing: 0.5 min` or `Timing:0.5 min`.  |  |  |  |
 
 ______
 
