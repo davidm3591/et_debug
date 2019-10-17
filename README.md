@@ -3,16 +3,6 @@
 ## Current Bugs
 
 
-### Bug: Missing and wrong time format (not "min") do not throw error and trigger message - Release: v0.4.5-alpha
-
-|File                  | Bug Description                 | Validated/Date/Pass/Fail |
-|----------------------|---------------------------------|--------------------------|
-| __8525-03-02.pptx__  | If timing unit is blank (missing "min, minute,or minutes")<br>there is no error, and time is not counted in the extraction sheet. | 10/16/19, Pass, SW |
-| 8522-04-08 | “ | 10/16/19, Pass, SW |
-| 8705-07-01 | “ | 10/16/19, Pass, SW |
-| 8702-03-01 | “ | 10/16/19, Pass, SW |
-| 8309-05-03 | “ | 10/16/19, Pass, SW |
-
 
 ### Codec Error Crash Files - Release: v0.4.4-alpha
 
@@ -26,19 +16,29 @@
 | __8103-11-04.pptx__ |                           |                | ..\extraction-testing-09102019\failed-ppts           |                          |
 | __3112-11-12.pptx__ |                           |                | ..\extraction-testing-09202019\duplicate-errors-ppts |                          |
 | __3112-12-02.pptx__ |                           |                | ..\extraction-testing-09202019\duplicate-errors-ppts |                          |
-
+<br>
 
 ### Timing - Release: v0.4.5-alpha (Will update in future update.)
 
 | File                | Issue                     | Status         | Notes/Comments                                       | Validated/Date/Pass/Fail |
 |---------------------|---------------------------|----------------|------------------------------------------------------|--------------------------|
 |                     | Timing accepted when written as `Timing: 0.5 min` or `Timing:0.5 min`.  |  |  |  |
-
+<br>
 ______
 
 
 ## Completed Bugs
 
+### Bug: Missing and wrong time format (not "min") do not throw error and trigger message - Release: v0.4.5-alpha
+
+|File                  | Bug Description                 | Validated/Date/Pass/Fail |
+|----------------------|---------------------------------|--------------------------|
+| __8525-03-02.pptx__  | If timing unit is blank (missing "min, minute,or minutes")<br>there is no error, and time is not counted in the extraction sheet. | 10/16/19, Pass, SW |
+| 8522-04-08 | “ | 10/16/19, Pass, SW |
+| 8705-07-01 | “ | 10/16/19, Pass, SW |
+| 8702-03-01 | “ | 10/16/19, Pass, SW |
+| 8309-05-03 | “ | 10/16/19, Pass, SW |
+<br>
 
 ### Local Disk (C:\projects\extraction_tool_project\testing_debug_files\ext_testing_workbook_10072019) - Release: v0.4.4-alpha
 #### Activities (framechains) starting with non-video frame are not showing in the extraction sheet
