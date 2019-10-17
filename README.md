@@ -35,10 +35,10 @@ ______
 |File                  | Bug Description                 | Validated/Date/Pass/Fail |
 |----------------------|---------------------------------|--------------------------|
 | __8525-03-02.pptx__  | If timing unit is blank (missing "min, minute,or minutes")<br>there is no error, and time is not counted in the extraction sheet. | 10/16/19, Pass, SW |
-| 8522-04-08 | “ | 10/16/19, Pass, SW |
-| 8705-07-01 | “ | 10/16/19, Pass, SW |
-| 8702-03-01 | “ | 10/16/19, Pass, SW |
-| 8309-05-03 | “ | 10/16/19, Pass, SW |
+| __8522-04-08.pptx__ | “ | 10/16/19, Pass, SW |
+| __8705-07-01.pptx__ | “ | 10/16/19, Pass, SW |
+| __8702-03-01.pptx__ | “ | 10/16/19, Pass, SW |
+| __8309-05-03.pptx__ | “ | 10/16/19, Pass, SW |
 <br>
 
 ### Local Disk (C:\projects\extraction_tool_project\testing_debug_files\ext_testing_workbook_10072019) - Release: v0.4.4-alpha
