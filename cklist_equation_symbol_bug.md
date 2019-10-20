@@ -8,7 +8,7 @@
 ### Bug: Codec Error Crash Files - Release: v0.4.5-alpha  (See end of doc for previous effort on this<sup>[(1)](#(1))</sup>)
 
 #### Create package to post to PythonistaCafe, Stack Overflow
-* [X] 1. Read the docs [python-pptx - Read the Docs][https://python-pptx.readthedocs.io/en/latest/index.html]
+* [X] 1. Read the docs [python-pptx - Read the Docs](https://python-pptx.readthedocs.io/en/latest/index.html)
      * [X] 1.1. Title of Problem
 
 _________________
