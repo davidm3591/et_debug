@@ -8,18 +8,18 @@
 ### Bug: Codec Error Crash Files - Release: v0.4.5-alpha  (See end of doc for previous effort on this<sup>[(1)](#(1))</sup>)
 
 
-Create package to post to PythonistaCafe, Stack Overflow
-* [ ] 1. Desription of Issue
-     * [ ] 1.1. Title of Problem
-     * [ ] 1.2. Give a description of what the problem/issue is (as far as I can tell) in a text.txt file
-     * [ ] 1.2. Give a description of what has been tried so far in a text.txt file
-* [ ] 2. PowerPoint
-     * [ ] 2.1. Rename 3112-09-02.pptx to 1234-56-78.pptx
-     * [ ] 2.2. Clean out all proprietary content from 0123-45-67.pptx (Lorem-Ipsum)
-     * [ ] 2.3. Strip out slides not needed to demo problem
-* [ ] 3. Code
-     * [ ] 3.1. Extract pertinent code that is broken - into a text.txt file
-     * [ ] 3.2. Copy error message to text.txt file
+#### Create package to post to PythonistaCafe, Stack Overflow
+* [X] 1. Desription of Issue
+     * [X] 1.1. Title of Problem
+     * [X] 1.2. Give a description of what the problem/issue is (as far as I can tell) in a text.txt file
+     * [X] 1.2. Give a description of what has been tried so far in a text.txt file
+* [X] 2. PowerPoint
+     * [X] 2.1. Rename 3112-09-02.pptx to 1234-56-78.pptx
+     * [X] 2.2. Clean out all proprietary content from 0123-45-67.pptx (Lorem-Ipsum)
+     * [X] 2.3. Strip out slides not needed to demo problem
+* [X] 3. Code
+     * [X] 3.1. Extract pertinent code that is broken - into a text.txt file
+     * [X] 3.2. Copy error message to text.txt file
 
 _________________
 

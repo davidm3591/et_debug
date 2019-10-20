@@ -1,0 +1,8 @@
+https://python-pptx.readthedocs.io/en/latest/api/shapes.html
+https://buildmedia.readthedocs.org/media/pdf/python-pptx/latest/python-pptx.pdf
+https://docs.microsoft.com/en-us/office/vba/api/powerpoint.slide.shapes
+https://python-pptx.readthedocs.io/en/latest/dev/analysis/sld-notes-slide.html
+https://github.com/scanny/python-pptx/issues/122
+https://github.com/scanny/python-pptx/issues/224
+
+how can I determine what shape objects are in a notes slide python-pptx

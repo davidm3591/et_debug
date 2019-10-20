@@ -7,24 +7,9 @@
 
 ### Bug: Codec Error Crash Files - Release: v0.4.5-alpha  (See end of doc for previous effort on this<sup>[(1)](#(1))</sup>)
 
-
-Create package to post to PythonistaCafe, Stack Overflow
-* [X] 1. Desription of Issue
+#### Create package to post to PythonistaCafe, Stack Overflow
+* [X] 1. Read the docs [python-pptx - Read the Docs][https://python-pptx.readthedocs.io/en/latest/index.html]
      * [X] 1.1. Title of Problem
-     * [X] 1.2. Give a description of what the problem/issue is (as far as I can tell) in a text.txtc file
-     * [X] 1.3. Summarize the issues with the content that is crashing
-     * [X] 1.4. Screen shots of pptx with highlighting and text explaining wht it is
-* [X] 2. PowerPoint
-     * [X] 2.1. Rename 3112-09-02.pptx to 0123-45-67.pptx
-     * [X] 2.2. Clean out all proprietary content from 0123-45-67.pptx (Lorem-Ipsum)
-     * [X] 2.3. Strip out slides not needed to demo problem
-* [X] 3. Code
-     * [X] 3.1. Extract pertinent code that is broken - into a file
-     * [X] 3.2. Copy error message to the file
-     * [X] 3.3. Add Python version and major modules to file
-     * [X] 3.1. Extract pertinent code that is broken - into a text.txt file
-* [X] 4. Review posting-to videos
-* [X] 5. Review/CE post content and post
 
 _________________
 
@@ -151,3 +136,24 @@ ________________
       - Use UTF-16 surrogates in Python 3.x - is there a module or maybe a 'method/function'? research? post?
       - Possible to parse and treat as image? (Is in-line-conversion possible? Python does not even see it as a text-object...)
   - * [ ] Use solution in the exception block?
+
+
+#### Complete - answer on slide.notes_slide.notes_text_frame - may not be codec issue
+
+#### Create package to post to PythonistaCafe, Stack Overflow
+* [X] 1. Desription of Issue
+     * [X] 1.1. Title of Problem
+     * [X] 1.2. Give a description of what the problem/issue is (as far as I can tell) in a text.txtc file
+     * [X] 1.3. Summarize the issues with the content that is crashing
+     * [X] 1.4. Screen shots of pptx with highlighting and text explaining wht it is
+* [X] 2. PowerPoint
+     * [X] 2.1. Rename 3112-09-02.pptx to 0123-45-67.pptx
+     * [X] 2.2. Clean out all proprietary content from 0123-45-67.pptx (Lorem-Ipsum)
+     * [X] 2.3. Strip out slides not needed to demo problem
+* [X] 3. Code
+     * [X] 3.1. Extract pertinent code that is broken - into a file
+     * [X] 3.2. Copy error message to the file
+     * [X] 3.3. Add Python version and major modules to file
+     * [X] 3.1. Extract pertinent code that is broken - into a text.txt file
+* [X] 4. Review posting-to videos
+* [X] 5. Review/CE post content and post
