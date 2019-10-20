@@ -7,7 +7,7 @@
 
 ### Bug: Codec Error Crash Files - Release: v0.4.5-alpha  (See end of doc for previous effort on this<sup>[(1)](#(1))</sup>)
 
-#### From PythonistaCafe post - the it appears that adding either equations or Cambria Math changes object from notes_text_frame to something else.
+#### From PythonistaCafe post<sup>[(1)](#(2))</sup> - the it appears that adding either equations or Cambria Math changes object from notes_text_frame to something else.
 
 * [ ] 1. Research 
      * [ ] 1.1. Read the docs [python-pptx - Read the Docs](https://python-pptx.readthedocs.io/en/latest/index.html)
@@ -138,6 +138,17 @@ ________________
       - Possible to parse and treat as image? (Is in-line-conversion possible? Python does not even see it as a text-object...)
   - * [ ] Use solution in the exception block?
 
+
+<br/>
+
+________________
+
+
+<a name="(2)" style="color: black; text-decoration: none;">
+
+#### (2) PythonistaCafe Post Effort: Bug: Codec Error Crash Files - Release: v0.4.5-alpha
+
+</a> 
 
 #### Complete - answer on slide.notes_slide.notes_text_frame - may not be codec issue
 
