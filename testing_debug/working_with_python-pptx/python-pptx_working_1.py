@@ -21,7 +21,10 @@ prs.save('test.pptx')
 #
 
 diagram = """
-BUILD A NEW POWERPOINT PRESENTATION WITH A TILE SLIDE AND TEXT
+--------------------------------------------------------------
+BUILD A NEW POWERPOINT PRESENTATION WITH:
+   A TILE SLIDE AND TEXT (SHAPE)
+   A SUBTITLE PLACEHOLER WITH TEXT
 --------------------------------------------------------------
 
 CODE:
@@ -39,23 +42,24 @@ subtitle.text = "python-pptx was here!"
 prs.save('test.pptx')
 
 CODE DIAGRAMMED
- ________________________________
-|                                |<--- prs = Presentation()
-|                                |
-|       ---------------          |<--- title_slide_layout = prs.slide_layouts[0]
-|       | Hello World |          |     title = slide.shapes.title
-|       --------------- <--------|---- title.text = 'Hello World'
-|                                |
-|                                |
-|                                |
-|   -------------------------    |
-|   | python-pptx was here! | <--|---- subtitle = slide.placeholders[1]
-|   -------------------------    |     subtitle.text = 'python-pptx was here!'
-|                                |
-|                                |
-|                                |
-|                                |
-|________________________________|
+ ________________________________________
+|    ________________________________    |
+|   |                                |   |<--- prs = Presentation()
+|   |                                |   |
+|   |       ---------------          |<--|---- title_slide_layout = prs.slide_layouts[0]
+|   |       | Hello World | <--------|---|---- title = slide.shapes.title
+|   |       --------------- <--------|---|---- title.text = 'Hello World'
+|   |                                |   |
+|   |                                |   |
+|   |   ------------------------- <--|---|---- subtitle = slide.placeholders[1]
+|   |   | python-pptx was here! | <--|---|---- subtitle.text = 'python-pptx was here!'
+|   |   -------------------------    |   |
+|   |                                |   |
+|   |                                |   |
+|   |                                |   |
+|   |                                |   |
+|   |________________________________|   |
+|________________________________________|
 
 """
 
