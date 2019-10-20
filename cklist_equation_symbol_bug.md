@@ -7,7 +7,7 @@
 
 ### Bug: Codec Error Crash Files - Release: v0.4.5-alpha  (See end of doc for previous effort on this<sup>[(1)](#(1))</sup>)
 
-#### From PythonistaCafe post<sup>[(1)](#(2))</sup> - the it appears that adding either equations or Cambria Math changes object from notes_text_frame to something else.
+#### From PythonistaCafe post<sup>[(2)](#(2))</sup> - the it appears that adding either equations or Cambria Math changes object from notes_text_frame to something else.
 
 * [ ] 1. Research 
      * [ ] 1.1. Read the docs [python-pptx - Read the Docs](https://python-pptx.readthedocs.io/en/latest/index.html)
