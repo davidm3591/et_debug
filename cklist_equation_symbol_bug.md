@@ -18,7 +18,7 @@
 
 * [ ] 1. Research & Testing
      * [ ] 1.1. Read the docs [python-pptx - Read the Docs](https://python-pptx.readthedocs.io/en/latest/index.html)
-     * [ ] 1.2. Get pptx file that was submitted to PythonistaCafe for post
+     * [X] 1.2. Get pptx file that was submitted to PythonistaCafe for post
      * [ ] 1.3. Set up extraction_pptx.py to read __every__ iteration and output the
         * [ ] 1.3.1. slide.notes_slide.notes_text_frame
         * [ ] 1.3.2. placeholder.placeholder_format.type
