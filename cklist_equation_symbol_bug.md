@@ -1,10 +1,11 @@
-# ET Debug Checklist - Current Release: v0.4.5-alpha
-
 <a name="(top)" style="color: black; text-decoration: none;">
 
 (Top)
 
 </a> 
+
+# ET Debug Checklist - Current Release: v0.4.5-alpha
+
 
 <hr>
 
