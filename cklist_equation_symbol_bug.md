@@ -1,5 +1,11 @@
 # ET Debug Checklist - Current Release: v0.4.5-alpha
 
+<a name="(top)" style="color: black; text-decoration: none;">
+
+(Top)
+
+</a> 
+
 <hr>
 
 ## Working
@@ -75,6 +81,8 @@ ________________
 ### Archived Content  
 
 <br/>
+
+[(top)](#(top))
 
 <a name="(1)" style="color: black; text-decoration: none;">
 
@@ -153,6 +161,7 @@ ________________
 
 ________________
 
+[(top)](#(top))
 
 <a name="(2)" style="color: black; text-decoration: none;">
 
