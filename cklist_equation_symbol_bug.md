@@ -9,8 +9,18 @@
 
 #### From PythonistaCafe post<sup>[(2)](#(2))</sup> - it appears that adding either equations or Cambria Math changes object from notes_text_frame to something else - i.e., no longer inherits text_frame property?
 
-* [ ] 1. Research 
+* [ ] 1. Research & Testing
      * [ ] 1.1. Read the docs [python-pptx - Read the Docs](https://python-pptx.readthedocs.io/en/latest/index.html)
+     * [ ] 1.2. Get pptx file that was submitted to PythonistaCafe for post
+     * [ ] 1.3. Set up extraction_pptx.py to read __every__ iteration and output the
+        * [ ] 1.3.1. slide.notes_slide.notes_text_frame
+        * [ ] 1.3.2. placeholder.placeholder_format.type
+        * [ ] 1.3.3. shape in slide.notes_slide.shapes
+        * [ ] 1.3.4. shape.text
+     * [ ] 1.4. Subsitute and test
+        * [ ] 1.4.1. new vocab slide w/notes that has not symbols or equations
+        * [ ] 1.4.2. change something in new slide to Cambria Math font
+        * [ ] 1.4.3. if font change didn't break it, insert a symbol with arial font
 
 _________________
 
