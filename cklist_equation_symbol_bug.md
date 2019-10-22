@@ -24,17 +24,17 @@
         * [ ] 1.1.4. [Working with placeholders - Identify and Characterize a placeholder](https://python-pptx.readthedocs.io/en/latest/user/placeholders-using.html)
         * [ ] 1.1.4. [Working with Notes Slides](https://python-pptx.readthedocs.io/en/latest/user/notes.html)
         * [ ] 1.1.5. [Font typeface](https://python-pptx.readthedocs.io/en/latest/dev/analysis/txt-font-typeface.html)
-     * [X] 1.3. Get pptx file that was submitted to PythonistaCafe for post
-     * [ ] 1.4. Set up extraction_pptx.py to read __every__ iteration and output the
+     * [X] 1.2. Get pptx file that was submitted to PythonistaCafe for post
+     * [ ] 1.3. Set up extraction_pptx.py to read __every__ iteration and output the
         * [ ] 1.3.1. slide.notes_slide.notes_text_frame
         * [ ] 1.3.2. placeholder.placeholder_format.type
         * [ ] 1.3.3. shape in slide.notes_slide.shapes
         * [ ] 1.3.4. shape.text
-     * [ ] 1.5. Subsitute and test
+     * [ ] 1.4 . Subsitute and test
         * [ ] 1.4.1. new vocab slide w/notes that has not symbols or equations
         * [ ] 1.4.2. change something in new slide to Cambria Math font
         * [ ] 1.4.3. if font change didn't break it, insert a symbol with arial font
-* [ ] 3. Fix - Implement fix for symbol and equation read bug
+* [ ] 2. Fix - Implement fix for symbol and equation read bug
     * [ ] 2.1 
 _________________
 
