@@ -24,6 +24,7 @@
         * [ ] 1.1.4. [Working with placeholders - Identify and Characterize a placeholder](https://python-pptx.readthedocs.io/en/latest/user/placeholders-using.html)
         * [ ] 1.1.4. [Working with Notes Slides](https://python-pptx.readthedocs.io/en/latest/user/notes.html)
         * [ ] 1.1.5. [Font typeface](https://python-pptx.readthedocs.io/en/latest/dev/analysis/txt-font-typeface.html)
+        * [ ] 1.1.6. [Python - Unicode HOWTO](https://docs.python.org/3/howto/unicode.html)
      * [X] 1.2. Get pptx file that was submitted to PythonistaCafe for post
      * [ ] 1.3. Set up extraction_pptx.py to read __every iteration__ and output the
         * [ ] 1.3.1. slide.notes_slide.notes_text_frame
