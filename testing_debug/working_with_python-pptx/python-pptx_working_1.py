@@ -1,19 +1,47 @@
 from pptx import Presentation
 
 #
-# Code explanation follows code here
+# Code diagram follows code here
 #
 
 prs = Presentation()
+
+# ####################################################################
+#
+# 1. Build title slide with slide_layouts
+# 2. Add 'title' slide.shape for text
+# 3. Add  'subtitle' slide.placeholders
+# 4. Add text to 'title' slide.shapes as text (title.text)
+#    Add text to 'subtitle' slide.placeholders as text (subtitle.text)
+#
+
+# 1.
 title_slide_layout = prs.slide_layouts[0]
 slide = prs.slides.add_slide(title_slide_layout)
+# 2.
 title = slide.shapes.title
+# 3.
 subtitle = slide.placeholders[1]
-
+# 4.
 title.text = "Hello, World!"
 subtitle.text = "python-pptx was here!"
 
+
+
+
+
+
+
+
+
+
+
 prs.save('test.pptx')
+
+
+
+
+
 
 
 #
