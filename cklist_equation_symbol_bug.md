@@ -18,14 +18,14 @@
 
 * [ ] 1. Research & Testing
      * [ ] 1.1. [python-pptx Full Documentation - Release v0.6.18](https://python-pptx.readthedocs.io/en/latest/index.html#api)
-        * [ ] 1.1.1. [Getting Started - Building a PPT](https://python-pptx.readthedocs.io/en/latest/user/quickstart.html)
-        * [ ] 1.1.2. [python-pptx - Documentation - PDF](https://buildmedia.readthedocs.org/media/pdf/python-pptx/latest/python-pptx.pdf)
+        * [ ] 1.1.1. [python-pptx - Full Documentation - Release v0.6.18 - PDF](https://buildmedia.readthedocs.org/media/pdf/python-pptx/latest/python-pptx.pdf)
+        * [ ] 1.1.2. [Getting Started - Building a PPT](https://python-pptx.readthedocs.io/en/latest/user/quickstart.html)
         * [ ] 1.1.3. [MSO_AUTO_SHAPE_TYPE](https://python-pptx.readthedocs.io/en/latest/api/enum/MsoAutoShapeType.html#msoautoshapetype)
         * [ ] 1.1.4. [Working with placeholders - Identify and Characterize a placeholder](https://python-pptx.readthedocs.io/en/latest/user/placeholders-using.html)
         * [ ] 1.1.4. [Working with Notes Slides](https://python-pptx.readthedocs.io/en/latest/user/notes.html)
         * [ ] 1.1.5. [Font typeface](https://python-pptx.readthedocs.io/en/latest/dev/analysis/txt-font-typeface.html)
      * [X] 1.2. Get pptx file that was submitted to PythonistaCafe for post
-     * [ ] 1.3. Set up extraction_pptx.py to read __every__ iteration and output the
+     * [ ] 1.3. Set up extraction_pptx.py to read __every iteration__ and output the
         * [ ] 1.3.1. slide.notes_slide.notes_text_frame
         * [ ] 1.3.2. placeholder.placeholder_format.type
         * [ ] 1.3.3. shape in slide.notes_slide.shapes
