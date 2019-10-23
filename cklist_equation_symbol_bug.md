@@ -27,7 +27,9 @@
         * [ ] 1.1.4. [Working with Notes Slides](https://python-pptx.readthedocs.io/en/latest/user/notes.html)
         * [ ] 1.1.5. [Font typeface](https://python-pptx.readthedocs.io/en/latest/dev/analysis/txt-font-typeface.html)
         * [ ] 1.1.6. [Python - Unicode HOWTO](https://docs.python.org/3/howto/unicode.html)
-     * [X] 1.2. Get pptx file that was submitted to PythonistaCafe for post
+     * [ ] 1.2. Set up test files, stripped down (base file: pptx file that was submitted to PythonistaCaf)
+        * [X] 1.2.1. Stripped out with symbol, equation, Cambria Math (CM) (slides 4, 5, 7 - symbols/equations)<br>
+                     0123-45-67_stripped_w_symbol_equation .pptx
      * [ ] 1.3. Set up extraction_pptx.py to read __every iteration__ and output the
         * [ ] 1.3.1. slide.notes_slide.notes_text_frame
         * [ ] 1.3.2. placeholder.placeholder_format.type
