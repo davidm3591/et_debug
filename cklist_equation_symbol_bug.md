@@ -18,35 +18,35 @@
 
 #### (NOTE: pick up with 'Extract all text from slides in presentation')
 
-* [ ] 1. Research & Testing
+* [ ] 1. Research & Testing - build resource list with links
      * [ ] 1.1. [python-pptx Full Documentation - Release v0.6.18](https://python-pptx.readthedocs.io/en/latest/index.html#api)
-        * [X] 1.1.1. [python-pptx - Full Documentation - Release v0.6.18 - PDF](https://buildmedia.readthedocs.org/media/pdf/python-pptx/latest/python-pptx.pdf)
-        * [X] 1.1.2. [Getting Started - Building a PPT](https://python-pptx.readthedocs.io/en/latest/user/quickstart.html)
-        * [ ] 1.1.3. [MSO_AUTO_SHAPE_TYPE](https://python-pptx.readthedocs.io/en/latest/api/enum/MsoAutoShapeType.html#msoautoshapetype)
-        * [ ] 1.1.4. [Working with placeholders - Identify and Characterize a placeholder](https://python-pptx.readthedocs.io/en/latest/user/placeholders-using.html)
-        * [ ] 1.1.4. [Working with Notes Slides](https://python-pptx.readthedocs.io/en/latest/user/notes.html)
-        * [ ] 1.1.5. [Font typeface](https://python-pptx.readthedocs.io/en/latest/dev/analysis/txt-font-typeface.html)
-        * [ ] 1.1.6. [Python - Unicode HOWTO](https://docs.python.org/3/howto/unicode.html)
-     * [ ] 1.2. Set up test files, stripped down (base file: pptx file that was submitted to PythonistaCaf)
-        * [X] 1.2.1. Stripped out with symbol, equation, Cambria Math (CM) (slides 4, 5, 7 - symbols/equations)<br>
+     * [X] 1.2. [python-pptx - Full Documentation - Release v0.6.18 - PDF](https://buildmedia.readthedocs.org/media/pdf/python-pptx/latest/python-pptx.pdf)
+     * [X] 1.3. [Getting Started - Building a PPT](https://python-pptx.readthedocs.io/en/latest/user/quickstart.html)
+     * [ ] 1.4. [MSO_AUTO_SHAPE_TYPE](https://python-pptx.readthedocs.io/en/latest/api/enum/MsoAutoShapeType.html#msoautoshapetype)
+     * [ ] 1.5. [Working with placeholders - Identify and Characterize a placeholder](https://python-pptx.readthedocs.io/en/latest/user/placeholders-using.html)
+     * [ ] 1.6. [Working with Notes Slides](https://python-pptx.readthedocs.io/en/latest/user/notes.html)
+     * [ ] 1.7. [Font typeface](https://python-pptx.readthedocs.io/en/latest/dev/analysis/txt-font-typeface.html)
+     * [ ] 1.8. [Python - Unicode HOWTO](https://docs.python.org/3/howto/unicode.html)
+     * [ ] 1.9. Set up test files, stripped down (base file: pptx file that was submitted to PythonistaCaf)
+        * [X] 1.9.1. Stripped out with symbol, equation, Cambria Math (CM) (slides 4, 5, 7 - symbols/equations)<br>
                      0123-45-67_stripped_w_symbol_equation .pptx
-        * [X] 1.2.2. Replace slide completely - no symbol, CM, equation (slides 4, 5, 7 - from 3316-09-04_passes.pptx)<br>
+        * [X] 1.9.2. Replace slide completely - no symbol, CM, equation (slides 4, 5, 7 - from 3316-09-04_passes.pptx)<br>
                      0123-45-67_replace_slide_symbol_equation.pptx
-        * [X] 1.2.3. Replace slide completely - Just add CM, to a number or something (slide 4 - x y z in CM)<br>
+        * [X] 1.9.3. Replace slide completely - Just add CM, to a number or something (slide 4 - x y z in CM)<br>
                      0123-45-67_replace_slide_just_add_cambria.pptx
-        * [ ] 1.2.4. Replace slide completely - Just add a plain text symbol (slides 4, 5, 7 - add different symbol/pg)<br>
+        * [ ] 1.9.4. Replace slide completely - Just add a plain text symbol (slides 4, 5, 7 - add different symbol/pg)<br>
                      0123-45-67_replace_slide_just_add_symbol.pptx
-        * [ ] 1.2.5. Clean file - passess with vocab<br>
+        * [ ] 1.9.5. Clean file - passess with vocab<br>
                      3316-09-04_passes.pptx
-     * [ ] 1.3. Set up extraction_pptx.py to read __every iteration__ and output the
-        * [ ] 1.3.1. slide.notes_slide.notes_text_frame
-        * [ ] 1.3.2. placeholder.placeholder_format.type
-        * [ ] 1.3.3. shape in slide.notes_slide.shapes
-        * [ ] 1.3.4. shape.text
-     * [ ] 1.4 . Subsitute and test
-        * [ ] 1.4.1. new vocab slide w/notes that has not symbols or equations
-        * [ ] 1.4.2. change something in new slide to Cambria Math font
-        * [ ] 1.4.3. if font change didn't break it, insert a symbol with arial font
+     * [ ] 1.10. Set up extraction_pptx.py to read __every iteration__ and output the
+        * [ ] 1.10.1. slide.notes_slide.notes_text_frame
+        * [ ] 1.10.2. placeholder.placeholder_format.type
+        * [ ] 1.10.3. shape in slide.notes_slide.shapes
+        * [ ] 1.10.4. shape.text
+     * [ ] 1.11 . Subsitute and test
+        * [ ] 1.11.1. new vocab slide w/notes that has not symbols or equations
+        * [ ] 1.11.2. change something in new slide to Cambria Math font
+        * [ ] 1.11.3. if font change didn't break it, insert a symbol with arial font
 * [ ] 2. Fix - Implement fix for symbol and equation read bug
     * [ ] 2.1 
 _________________
