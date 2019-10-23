@@ -30,6 +30,14 @@
      * [ ] 1.2. Set up test files, stripped down (base file: pptx file that was submitted to PythonistaCaf)
         * [X] 1.2.1. Stripped out with symbol, equation, Cambria Math (CM) (slides 4, 5, 7 - symbols/equations)<br>
                      0123-45-67_stripped_w_symbol_equation .pptx
+        * [X] 1.2.2. Replace slide completely - no symbol, CM, equation (slides 4, 5, 7 - from 3316-09-04_passes.pptx)<br>
+                     0123-45-67_replace_slide_symbol_equation.pptx
+        * [X] 1.2.3. Replace slide completely - Just add CM, to a number or something (slide 4 - x y z in CM)<br>
+                     0123-45-67_replace_slide_just_add_cambria.pptx
+        * [ ] 1.2.4. Replace slide completely - Just add a plain text symbol (slides 4, 5, 7 - add different symbol/pg)<br>
+                     0123-45-67_replace_slide_just_add_symbol.pptx
+        * [ ] 1.2.5. Clean file - passess with vocab<br>
+                     3316-09-04_passes.pptx
      * [ ] 1.3. Set up extraction_pptx.py to read __every iteration__ and output the
         * [ ] 1.3.1. slide.notes_slide.notes_text_frame
         * [ ] 1.3.2. placeholder.placeholder_format.type
