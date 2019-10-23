@@ -16,10 +16,12 @@
 
 #### From PythonistaCafe post<sup>[(2)](#(2))</sup> - it appears that adding either equations or Cambria Math changes object from notes_text_frame to something else - i.e., no longer inherits text_frame property?
 
+#### (NOTE: pick up with 'Extract all text from slides in presentation')
+
 * [ ] 1. Research & Testing
      * [ ] 1.1. [python-pptx Full Documentation - Release v0.6.18](https://python-pptx.readthedocs.io/en/latest/index.html#api)
-        * [ ] 1.1.1. [python-pptx - Full Documentation - Release v0.6.18 - PDF](https://buildmedia.readthedocs.org/media/pdf/python-pptx/latest/python-pptx.pdf)
-        * [ ] 1.1.2. [Getting Started - Building a PPT](https://python-pptx.readthedocs.io/en/latest/user/quickstart.html)
+        * [X] 1.1.1. [python-pptx - Full Documentation - Release v0.6.18 - PDF](https://buildmedia.readthedocs.org/media/pdf/python-pptx/latest/python-pptx.pdf)
+        * [X] 1.1.2. [Getting Started - Building a PPT](https://python-pptx.readthedocs.io/en/latest/user/quickstart.html)
         * [ ] 1.1.3. [MSO_AUTO_SHAPE_TYPE](https://python-pptx.readthedocs.io/en/latest/api/enum/MsoAutoShapeType.html#msoautoshapetype)
         * [ ] 1.1.4. [Working with placeholders - Identify and Characterize a placeholder](https://python-pptx.readthedocs.io/en/latest/user/placeholders-using.html)
         * [ ] 1.1.4. [Working with Notes Slides](https://python-pptx.readthedocs.io/en/latest/user/notes.html)
