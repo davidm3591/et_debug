@@ -1,0 +1,17 @@
+
+1. Stripped out with symbol, equation, Cambria Math (CM) (slides 4, 5, 7 - symbols/equations)
+   1_0123-45-67_stripped_w_symbol_equation_cm.pptx (complete)
+
+2. Replace slide completely - no symbol, CM, equation (slides 4, 5, 7 - from 3316-09-04_passes.pptx)
+   2_0123-45-67_replace_slide_symbol_equation_cm.pptx (complete)
+
+3. Replace slide completely - Just add CM, to a number or something (slide 4 - x y z in CM)
+   3_0123-45-67_replace_slide_just_add_cambria.pptx (complete)
+
+4. Replace slide completely - Just add a plain text symbol
+   4_0123-45-67_replace_slide_just_add_symbol_ascii_utf8.pptx
+
+5. Replace slide completely - ???
+
+6. Clean file - passess with vocab
+   3316-09-04_passes_stripped.pptx
