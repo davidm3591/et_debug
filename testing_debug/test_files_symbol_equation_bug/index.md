@@ -1,4 +1,4 @@
-
+# File Index/Map for PPPTX Test Files for Equation & Symbol Bug
 
 1. Stripped out with symbol, equation, Cambria Math (CM) (slides 4, 5, 7 - symbols/equations)
    1_0123-45-67_stripped_w_symbol_equation_cm.pptx (complete)
@@ -13,9 +13,10 @@
    4_0123-45-67_replace_slide_just_add_symbol_ascii_utf8.pptx
 
 5. Replace slide completely - Just add a plain text symbol
+   5_0123-45-67_replace_slide_add_plain_text_symbol_equation.pptx (complete)
 
 6. Replace slide completely - Modify 2_0123-45-67_replace_slide_symbol_equation_cm.pptx. Insert symbol and equation using equation tools - check if slide notes object turns into image placeholder
-   6_0123-45-67_replace_slide_symbol_equation_cm.pptx (complete)
+   6_0123-45-67_replace_slide_add_symbol_equation.pptx (complete)
 
 7. Clean file - passess with vocab
    3316-09-04_passes_stripped.pptx

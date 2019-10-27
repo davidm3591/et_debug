@@ -37,7 +37,7 @@
                      0123-45-67_replace_slide_just_add_cambria.pptx
         * [ ] 1.2.4. Replace slide completely - Just add a plain text symbol (slides 4, 5, 7 - add different symbol/pg)<br>
                      0123-45-67_replace_slide_just_add_symbol.pptx
-        * [ ] 1.2.5. Clean file - passess with vocab<br>
+        * [X] 1.2.5. Clean file - passess with vocab<br>
                      3316-09-04_passes.pptx
      * [ ] 1.3. Set up extraction_pptx.py to read __every iteration__ and output the
         * [ ] 1.3.1. slide.notes_slide.notes_text_frame
