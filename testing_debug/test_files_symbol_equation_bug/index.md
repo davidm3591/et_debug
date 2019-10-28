@@ -10,7 +10,7 @@
    3_0123-45-67_replace_slide_just_add_cambria.pptx (complete)
 
 4. Replace slide completely - Check all fonts... especially symbol fonts for alpha and p-hat
-   4_0123-45-67_replace_slide_just_add_symbol_ascii_utf8.pptx
+   4_0123-45-67_replace_slide_check_all_std_symbol_fonts.pptx
 
 5. Replace slide completely - Just add a plain text symbol to notes slide.
    5_0123-45-67_replace_slide_add_plain_text_symbol_equation.pptx (complete)
