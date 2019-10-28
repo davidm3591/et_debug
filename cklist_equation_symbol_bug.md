@@ -28,17 +28,21 @@
         * [ ] 1.1.6. [Working with Notes Slides](https://python-pptx.readthedocs.io/en/latest/user/notes.html)
         * [ ] 1.1.7. [Font typeface](https://python-pptx.readthedocs.io/en/latest/dev/analysis/txt-font-typeface.html)
         * [ ] 1.1.8. [Python - Unicode HOWTO](https://docs.python.org/3/howto/unicode.html)
-     * [ ] 1.2. Set up test files, stripped down (base file: pptx file that was submitted to PythonistaCaf)
-        * [X] 1.2.1. Stripped out with symbol, equation, Cambria Math (CM) (slides 4, 5, 7 - symbols/equations)<br>
-                     0123-45-67_stripped_w_symbol_equation .pptx
+     * [X] 1.2. Set up test files, stripped down (base file: pptx file that was submitted to PythonistaCaf)
+        * [X] 1.2.1. Stripped out, but with symbol, equation, Cambria Math (CM) (slides 4, 5, 7 - symbols/equations)<br>
+                     1_0123-45-67_stripped_w_symbol_equation_cm.pptx (complete)
         * [X] 1.2.2. Replace slide completely - no symbol, CM, equation (slides 4, 5, 7 - from 3316-09-04_passes.pptx)<br>
-                     0123-45-67_replace_slide_symbol_equation.pptx
+                     2_0123-45-67_replace_slide_symbol_equation_cm.pptx (complete)
         * [X] 1.2.3. Replace slide completely - Just add CM, to a number or something (slide 4 - x y z in CM)<br>
-                     0123-45-67_replace_slide_just_add_cambria.pptx
-        * [ ] 1.2.4. Replace slide completely - Just add a plain text symbol (slides 4, 5, 7 - add different symbol/pg)<br>
-                     0123-45-67_replace_slide_just_add_symbol.pptx
-        * [X] 1.2.5. Clean file - passess with vocab<br>
-                     3316-09-04_passes.pptx
+                     3_0123-45-67_replace_slide_just_add_cambria.pptx (complete)
+        * [X] 1.2.4. Replace slide completely - Check all fonts... especially symbol fonts for alpha and p-hat<br>
+                     4_0123-45-67_replace_slide_check_all_std_symbol_fonts.pptx
+        * [X] 1.2.5. Replace slide completely - Just add a plain text symbol to notes slide.<br>
+                     5_0123-45-67_replace_slide_add_plain_text_symbol_equation.pptx (complete)
+        * [X] 1.2.6. Replace slide completely - Insert symbol and equation using equation tools - does textbox object turn into image placeholder<br>
+                     6_0123-45-67_replace_slide_add_symbol_equation.pptx (complete)
+        * [X] 1.2.7. Clean file - passess with vocab<br>
+                     3316-09-04_passes_stripped.pptx
      * [ ] 1.3. Set up extraction_pptx.py to read __every iteration__ and output the
         * [ ] 1.3.1. slide.notes_slide.notes_text_frame
         * [ ] 1.3.2. placeholder.placeholder_format.type
