@@ -27,6 +27,7 @@ prs = Presentation()
 # 11. Add text to text_frame
 # 12. Add next bullet with 'add_paragraph() to text_frame'
 
+
 # Build the Title Slide with Title and a Subtitle
 # 1.
 title_slide_layout = prs.slide_layouts[0]
@@ -68,7 +69,6 @@ p.level = 2
 
 
 # Add a textbox() with add_textbox()
-
 
 
 prs.save('test.pptx')
@@ -125,7 +125,7 @@ CODE DIAGRAMMED
 # print(title_diagram)
 
 
-bullet_diagram = # --------------------------------------------------------------
+bullet_diagram =  # --------------------------------------------------------------
 # BUILD A NEW POWERPOINT PRESENTATION (CONTINUED)
 
 # BUILD A NEW BULLET POINT SLIDE:
