@@ -1,0 +1,22 @@
+
+python-pptx
+https://github.com/scanny/python-pptx/commit/c29cb6ce0e37678456eca7e45279cf56c1e72a50
+docs: document notes slide API and use 
+
+
+
+Working with Notes Slides
+https://python-pptx.readthedocs.io/en/latest/user/notes.html
+
+Working with placeholders
+https://python-pptx.readthedocs.io/en/latest/user/placeholders-using.html
+
+
+MSO_AUTO_SHAPE_TYPE
+https://python-pptx.readthedocs.io/en/latest/api/enum/MsoAutoShapeType.html#msoautoshapetype
+
+Python-pptx PDF document
+https://buildmedia.readthedocs.org/media/pdf/python-pptx/latest/python-pptx.pdf
+
+Getting Started - Building a PPT
+https://python-pptx.readthedocs.io/en/latest/user/quickstart.html
