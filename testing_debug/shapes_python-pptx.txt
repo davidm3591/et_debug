@@ -1,0 +1,39 @@
+Official Shapes (Six-and only six-official PPT shapes)
+
+1. auto shape: regular shape (rectangle, ellipse, triangle, block arrows), takes fill, outline, and text
+   (auto shapes can also have an image as fill)
+   (text box is also an auto shape, just without default fill and/or outline)
+
+2. picture: raster images (photo, clip art) are referred to as a picture in PowerPoint.
+
+3. graphic frame: name PPT uses for a table, graph, smart art, or media. graphic frames cannot be
+   created directly, they are automatically created when one of the objects mentioned are added to a slide
+
+4. group shape: created by grouping a set of shapes - can't actually see this except by bounding box in slide
+
+5. line/connector: different from auto shapes because they are linear (not supported by python-pptx)
+
+6. content part: something to do with embedding "foreign" XML like SVG in a presentation (not supported
+   by python-pptx)
+
+
+Real-life Shapes (Nine unofficial real-life PPT shapes)
+
+1. shape shapes: auto shapes with fill and an outline
+
+2. text boxes: auto shapes with no fill and no ouline
+
+3. placeholders: auto shapes that can appear on a slide layout or master and be inherited by slides made
+   from them
+
+4. line/connector: same as official shape
+
+5. picture: same as official shape
+
+6. table: table with rows and cols
+
+7. chart: pie chart, line chart, etc.
+
+8. smart art: not supported, but preserved if present
+
+9. media clip: video or audio
