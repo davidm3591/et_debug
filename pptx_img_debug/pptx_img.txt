@@ -1,0 +1,64 @@
+
+Get a picture - Python-pptx
+
+Asked 5 months ago (May 31, 2019)
+Active 5 months ago
+Viewed 92 times
+
+I am trying to read a .pptx file using python-pptx. I managed to get all the content except the image from the presentation. Below is the code i used to identify images other than textframes in the presentation. After identifying i am getting the auto_shape_type as RECTANGLE (1) but nothing about the image.
+
+from pptx import Presentation
+from pptx.shapes.picture import Picture
+
+def read_ppt(file):
+    prs = Presentation(file)
+    for slide_no, slide in enumerate(prs.slides):
+        for shape in slide.shapes:
+            if not shape.has_text_frame:
+                print(shape.auto_shape_type)
+
+Any help on understanding this problem appreciated. Alternative options are also welcome.
+python image python-pptx
+shareimprove this question
+edited May 31 at 6:23
+asked May 31 at 2:53
+SmashGuy
+1,09911 gold badge77 silver badges1717 bronze badges
+add a comment
+1 Answer
+active
+oldest
+votes
+2
+
+try querying the shape.shape_type. by default, the auto_shape_type returns rectangle as you've observed, though pictures can be inserted into and masked by other shapes as well.
+
+    Note the default value for a newly-inserted picture is MSO_AUTO_SHAPE_TYPE.RECTANGLE, which performs no cropping because the extents of the rectangle exactly correspond to the extents of the picture.
+
+the shape_type should return:
+
+    Unique integer identifying the type of this shape, unconditionally MSO_SHAPE_TYPE.PICTURE in this case.
+
+You can extract the image content to a file by using its blob property and writing out the binary:
+
+from pptx import Presentation
+pres = Presentation('ppt_image.pptx')
+slide = pres.slides[0]
+shape = slide.shapes[0]
+image = shape.image
+blob = image.blob
+ext = image.ext
+with open(f'image.{ext}', 'wb') as file:
+    file.write(blob)
+
+shareimprove this answer
+edited May 31 at 17:19
+answered May 31 at 3:03
+David Zemens
+48k1010 gold badges6060 silver badges107107 bronze badges
+
+    Thanks for your time. Do you mind helping me in extracting the image from ppt? – SmashGuy May 31 at 9:38
+    @SmashGuy does this solve the question? I'm not sure what you mean by "extracting the image"? You can refer to the image property which returns an Image object. – David Zemens May 31 at 12:47
+    1
+    Yes. You have understood the question in the correct way. And the code helped me to finish my task. Thanks a lot. – SmashGuy May 31 at 16:55
+
