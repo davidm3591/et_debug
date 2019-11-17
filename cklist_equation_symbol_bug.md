@@ -19,15 +19,15 @@
 #### (NOTE: pick up with 'Extract all text from slides in presentation')
 
 * [ ] 1. Research & Testing - build resource list with links
-     * [ ] 1.1. Resource link list
-        * [ ] 1.1.1. [python-pptx Full Documentation - Release v0.6.18](https://python-pptx.readthedocs.io/en/latest/index.html#api)
+     * [X] 1.1. Resource link list
+        * [X] 1.1.1. [python-pptx Full Documentation - Release v0.6.18](https://python-pptx.readthedocs.io/en/latest/index.html#api)
         * [X] 1.1.2. [python-pptx - Full Documentation - Release v0.6.18 - PDF](https://buildmedia.readthedocs.org/media/pdf/python-pptx/latest/python-pptx.pdf)
         * [X] 1.1.3. [Getting Started - Building a PPT](https://python-pptx.readthedocs.io/en/latest/user/quickstart.html)
-        * [ ] 1.1.4. [MSO_AUTO_SHAPE_TYPE](https://python-pptx.readthedocs.io/en/latest/api/enum/MsoAutoShapeType.html#msoautoshapetype)
-        * [ ] 1.1.5. [Working with placeholders - Identify and Characterize a placeholder](https://python-pptx.readthedocs.io/en/latest/user/placeholders-using.html)
-        * [ ] 1.1.6. [Working with Notes Slides](https://python-pptx.readthedocs.io/en/latest/user/notes.html)
-        * [ ] 1.1.7. [Font typeface](https://python-pptx.readthedocs.io/en/latest/dev/analysis/txt-font-typeface.html)
-        * [ ] 1.1.8. [Python - Unicode HOWTO](https://docs.python.org/3/howto/unicode.html)
+        * [X] 1.1.4. [MSO_AUTO_SHAPE_TYPE](https://python-pptx.readthedocs.io/en/latest/api/enum/MsoAutoShapeType.html#msoautoshapetype)
+        * [X] 1.1.5. [Working with placeholders - Identify and Characterize a placeholder](https://python-pptx.readthedocs.io/en/latest/user/placeholders-using.html)
+        * [X] 1.1.6. [Working with Notes Slides](https://python-pptx.readthedocs.io/en/latest/user/notes.html)
+        * [X] 1.1.7. [Font typeface](https://python-pptx.readthedocs.io/en/latest/dev/analysis/txt-font-typeface.html)
+        * [X] 1.1.8. [Python - Unicode HOWTO](https://docs.python.org/3/howto/unicode.html)
      * [X] 1.2. Set up test files, stripped down (base file: pptx file that was submitted to PythonistaCaf)
         * [X] 1.2.1. Stripped out, but with symbol, equation, Cambria Math (CM) (slides 4, 5, 7 - symbols/equations)<br>
                      1_0123-45-67_stripped_w_symbol_equation_cm.pptx (complete)
