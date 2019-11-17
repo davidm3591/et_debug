@@ -48,10 +48,10 @@
         * [ ] 1.3.2. placeholder.placeholder_format.type
         * [ ] 1.3.3. shape in slide.notes_slide.shapes
         * [ ] 1.3.4. shape.text
-     * [ ] 1.4 . Subsitute and test
-        * [ ] 1.4.1. new vocab slide w/notes that has not symbols or equations
-        * [ ] 1.4.2. change something in new slide to Cambria Math font
-        * [ ] 1.4.3. if font change didn't break it, insert a symbol with arial font
+     * [X] 1.4 . Subsitute and test
+        * [X] 1.4.1. new vocab slide w/notes that has not symbols or equations
+        * [X] 1.4.2. change something in new slide to Cambria Math font
+        * [X] 1.4.3. if font change didn't break it, insert a symbol with arial font
 * [ ] 2. Fix - Implement fix for symbol and equation read bug
     * [ ] 2.1 
 _________________
