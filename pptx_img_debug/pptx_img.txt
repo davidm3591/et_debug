@@ -55,7 +55,7 @@ shareimprove this answer
 edited May 31 at 17:19
 answered May 31 at 3:03
 David Zemens
-48k1010 gold badges6060 silver badges107107 bronze badges
+
 
     Thanks for your time. Do you mind helping me in extracting the image from ppt? – SmashGuy May 31 at 9:38
     @SmashGuy does this solve the question? I'm not sure what you mean by "extracting the image"? You can refer to the image property which returns an Image object. – David Zemens May 31 at 12:47
