@@ -1,0 +1,7 @@
+https://stackoverflow.com/questions/56388068/get-a-picture-python-pptx
+https://python-pptx.readthedocs.io/en/latest/api/image.html#pptx.parts.image.Image
+https://python-pptx.readthedocs.io/en/latest/api/shapes.html#pptx.shapes.picture.Picture.image
+https://stackoverflow.com/questions/46463861/get-image-file-names-with-python-pptx
+https://python-pptx.readthedocs.io/en/latest/_modules/pptx/shapes/shapetree.html
+https://python-pptx.readthedocs.io/en/latest/api/slides.html#slideplaceholders-objects
+https://python-pptx.readthedocs.io/en/latest/user/placeholders-using.html
