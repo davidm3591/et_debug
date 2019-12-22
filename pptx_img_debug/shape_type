@@ -1,0 +1,32 @@
+>>> # Because a placeholder is a shape, it can
+>>> #  be accessed using shape attributes and properties,
+>>> #  but value of the shape_type is unconditionally
+>>> #  MSO_SHAPE_TYPE.PLACEHOLDER.
+...
+>>> 
+>>> from pptx import Presentation
+>>>
+>>> prs = Presentation()
+>>> slide = prs.slides.add_slide(prs.slide_layouts[8])
+>>> for shape in slide.shapes:
+...     print(f"shape.shape_type: {shape.shape_type}")
+...
+shape.shape_type: PLACEHOLDER (14)
+shape.shape_type: PLACEHOLDER (14)
+shape.shape_type: PLACEHOLDER (14)
+>>> 
+
+>>> # To get more info, you have to use the placeholder's
+>>> #  placeholder_format attribute. (NOTE: To avoid
+>>> #  a ValueError, use the is_placeholder attribute.)
+...
+>>> 
+>>> for shape in slide.shapes:
+...     if shape.is_placeholder:
+...             phf = shape.placeholder_format
+...             print(f"idx value: {phf.idx} -- type value: {phf.type}")
+...
+idx value: 0 -- type value: TITLE (1)
+idx value: 1 -- type value: PICTURE (18)
+idx value: 2 -- type value: BODY (2)
+>>>
