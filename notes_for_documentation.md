@@ -11,7 +11,7 @@
 
 - [x] Add #video tags to all video (including follow on) frames. (All non #Anchor and non #Frame video slides also require the #video tag.)
 - [x] `No Audio: NA` - for task frame without (entry, hint, exit) audio.
-- [ ] Times need to be correct format (decimal minutes `0.5 min`), examples:
+- [x] Times need to be correct format (decimal minutes `0.5 min`), examples:
 
 	`Timing ≈ 0.5 min`  
 	~~`Timing ≈ 0.5 minute`~~  
@@ -25,3 +25,5 @@
 	two – is just as bad as one
 	three – just leave it alone
 	```
+
+- [x] No Audio: NA
